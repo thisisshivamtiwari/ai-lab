@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2026-11-13-decision-calibration",
+  "date": "2026-11-13",
+  "slug": "decision-calibration",
+  "launch": {
+   "name": "Gemini Decisions API (gemini-decision-1)",
+   "official": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "second": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+  },
+  "skills": [
+   "LLM evaluation",
+   "calibration",
+   "classification",
+   "AI product decisions (human-in-the-loop thresholds)"
+  ],
+  "media": "2026-11-13-decision-calibration/media/reliability.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "Claude baseline only; Gemini adapter written but not run (no key)"
+ }
+]

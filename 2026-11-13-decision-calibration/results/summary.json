@@ -1,0 +1,381 @@
+{
+ "per_run": [
+  {
+   "name": "claude-haiku-run1 (claude-haiku-4-5-20251001)",
+   "n": 80,
+   "accuracy_at_0.5": 0.975,
+   "accuracy_hard": 0.95,
+   "brier": 0.021,
+   "ece_5bin": 0.021,
+   "auto_share": 0.887,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.0,
+    0.05,
+    0.1,
+    0.2,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.92,
+    0.93,
+    0.95,
+    0.98,
+    1.0
+   ],
+   "bins": [
+    {
+     "mean_p": 0.016,
+     "frac_yes": 0.0,
+     "n": 37
+    },
+    {
+     "mean_p": 0.2,
+     "frac_yes": 0.0,
+     "n": 1
+    },
+    {
+     "mean_p": 0.7,
+     "frac_yes": 0.75,
+     "n": 4
+    },
+    {
+     "mean_p": 0.956,
+     "frac_yes": 0.974,
+     "n": 38
+    }
+   ]
+  },
+  {
+   "name": "claude-haiku-run2 (claude-haiku-4-5-20251001)",
+   "n": 80,
+   "accuracy_at_0.5": 0.988,
+   "accuracy_hard": 0.975,
+   "brier": 0.013,
+   "ece_5bin": 0.047,
+   "auto_share": 0.863,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.0,
+    0.15,
+    0.2,
+    0.45,
+    0.7,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+   ],
+   "bins": [
+    {
+     "mean_p": 0.004,
+     "frac_yes": 0.0,
+     "n": 37
+    },
+    {
+     "mean_p": 0.2,
+     "frac_yes": 0.0,
+     "n": 1
+    },
+    {
+     "mean_p": 0.45,
+     "frac_yes": 0.0,
+     "n": 1
+    },
+    {
+     "mean_p": 0.7,
+     "frac_yes": 0.0,
+     "n": 1
+    },
+    {
+     "mean_p": 0.944,
+     "frac_yes": 1.0,
+     "n": 40
+    }
+   ]
+  },
+  {
+   "name": "claude-sonnet-run1 (claude-sonnet-5-5)",
+   "n": 80,
+   "accuracy_at_0.5": 0.988,
+   "accuracy_hard": 0.975,
+   "brier": 0.023,
+   "ece_5bin": 0.076,
+   "auto_share": 0.725,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.01,
+    0.02,
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.07,
+    0.1,
+    0.12,
+    0.15,
+    0.2,
+    0.3,
+    0.4,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.88,
+    0.9,
+    0.93,
+    0.95,
+    0.96,
+    0.97,
+    0.98
+   ],
+   "bins": [
+    {
+     "mean_p": 0.031,
+     "frac_yes": 0.0,
+     "n": 38
+    },
+    {
+     "mean_p": 0.25,
+     "frac_yes": 0.5,
+     "n": 2
+    },
+    {
+     "mean_p": 0.533,
+     "frac_yes": 0.667,
+     "n": 3
+    },
+    {
+     "mean_p": 0.712,
+     "frac_yes": 1.0,
+     "n": 4
+    },
+    {
+     "mean_p": 0.913,
+     "frac_yes": 1.0,
+     "n": 33
+    }
+   ]
+  },
+  {
+   "name": "claude-sonnet-run2 (claude-sonnet-5-5)",
+   "n": 80,
+   "accuracy_at_0.5": 0.975,
+   "accuracy_hard": 0.95,
+   "brier": 0.024,
+   "ece_5bin": 0.078,
+   "auto_share": 0.713,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.01,
+    0.02,
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.07,
+    0.08,
+    0.1,
+    0.15,
+    0.2,
+    0.3,
+    0.45,
+    0.6,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.86,
+    0.88,
+    0.9,
+    0.93,
+    0.96,
+    0.97,
+    0.98
+   ],
+   "bins": [
+    {
+     "mean_p": 0.033,
+     "frac_yes": 0.0,
+     "n": 38
+    },
+    {
+     "mean_p": 0.25,
+     "frac_yes": 0.5,
+     "n": 2
+    },
+    {
+     "mean_p": 0.5,
+     "frac_yes": 0.667,
+     "n": 3
+    },
+    {
+     "mean_p": 0.738,
+     "frac_yes": 1.0,
+     "n": 4
+    },
+    {
+     "mean_p": 0.91,
+     "frac_yes": 1.0,
+     "n": 33
+    }
+   ]
+  }
+ ],
+ "pooled": [
+  {
+   "name": "claude-haiku (2 runs pooled)",
+   "n": 160,
+   "accuracy_at_0.5": 0.981,
+   "accuracy_hard": 0.963,
+   "brier": 0.017,
+   "ece_5bin": 0.031,
+   "auto_share": 0.875,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.45,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.92,
+    0.93,
+    0.95,
+    0.98,
+    1.0
+   ],
+   "bins": [
+    {
+     "mean_p": 0.01,
+     "frac_yes": 0.0,
+     "n": 74
+    },
+    {
+     "mean_p": 0.2,
+     "frac_yes": 0.0,
+     "n": 2
+    },
+    {
+     "mean_p": 0.45,
+     "frac_yes": 0.0,
+     "n": 1
+    },
+    {
+     "mean_p": 0.7,
+     "frac_yes": 0.6,
+     "n": 5
+    },
+    {
+     "mean_p": 0.95,
+     "frac_yes": 0.987,
+     "n": 78
+    }
+   ]
+  },
+  {
+   "name": "claude-sonnet (2 runs pooled)",
+   "n": 160,
+   "accuracy_at_0.5": 0.981,
+   "accuracy_hard": 0.963,
+   "brier": 0.023,
+   "ece_5bin": 0.077,
+   "auto_share": 0.719,
+   "auto_accuracy": 1.0,
+   "confident_and_wrong": [],
+   "distinct_values": [
+    0.01,
+    0.02,
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.07,
+    0.08,
+    0.1,
+    0.12,
+    0.15,
+    0.2,
+    0.3,
+    0.4,
+    0.45,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.86,
+    0.88,
+    0.9,
+    0.93,
+    0.95,
+    0.96,
+    0.97,
+    0.98
+   ],
+   "bins": [
+    {
+     "mean_p": 0.032,
+     "frac_yes": 0.0,
+     "n": 76
+    },
+    {
+     "mean_p": 0.25,
+     "frac_yes": 0.5,
+     "n": 4
+    },
+    {
+     "mean_p": 0.517,
+     "frac_yes": 0.667,
+     "n": 6
+    },
+    {
+     "mean_p": 0.725,
+     "frac_yes": 1.0,
+     "n": 8
+    },
+    {
+     "mean_p": 0.912,
+     "frac_yes": 1.0,
+     "n": 66
+    }
+   ]
+  }
+ ],
+ "run_to_run": {
+  "claude-haiku": {
+   "mean_abs_change": 0.034,
+   "max_abs_change": 0.65,
+   "label_flips": [
+    "m061"
+   ],
+   "band_switches": 6
+  },
+  "claude-sonnet": {
+   "mean_abs_change": 0.011,
+   "max_abs_change": 0.15,
+   "label_flips": [
+    "m048"
+   ],
+   "band_switches": 3
+  }
+ }
+}

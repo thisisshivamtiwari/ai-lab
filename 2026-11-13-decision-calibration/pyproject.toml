@@ -1,0 +1,9 @@
+[project]
+name = "decision-calibration"
+version = "0.1.0"
+description = "Are yes/no probabilities from LLM decision calls calibrated? A small harness and a Claude baseline."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib==3.10.7",
+    "numpy==2.3.4",
+]
