@@ -1,5 +1,24 @@
 [
  {
+  "id": "2026-11-14-llmon-transfer",
+  "date": "2026-11-14",
+  "slug": "llmon-transfer",
+  "launch": {
+   "name": "IBM LLMON markup + Granite 4.1 LLMON preview",
+   "official": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "second": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+  },
+  "skills": [
+   "AI security / prompt injection",
+   "LLM evaluation",
+   "prompt engineering (instruction/data separation)"
+  ],
+  "media": "2026-11-14-llmon-transfer/media/spoof-obeyed.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "Claude Haiku 4.5 + Sonnet 5.5 via claude -p; Granite LLMON models not run (disk 9.1 GB free)"
+ },
+ {
   "id": "2026-11-13-decision-calibration",
   "date": "2026-11-13",
   "slug": "decision-calibration",
@@ -16,7 +35,11 @@
   ],
   "media": "2026-11-13-decision-calibration/media/reliability.png",
   "status": "shipped",
-  "posted": {},
+  "posted": {
+   "linkedinScheduled": "2026-11-14T13:00",
+   "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7527354741488619520/",
+   "linkedinFirstComment": "2026-11-14T14:13"
+  },
   "notes": "Claude baseline only; Gemini adapter written but not run (no key)"
  }
 ]

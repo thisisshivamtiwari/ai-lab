@@ -1,0 +1,9 @@
+[project]
+name = "llmon-transfer"
+version = "0.1.0"
+description = "Does IBM's LLMON instruction/data markup help a model that was never trained on it? A small prompt-injection test."
+requires-python = ">=3.11"
+dependencies = [
+    "llmon-core @ git+https://github.com/generative-computing/llmon@0b0d7bd8b77f32c52050a037c3d3608788ba506d",
+    "matplotlib==3.10.7",
+]

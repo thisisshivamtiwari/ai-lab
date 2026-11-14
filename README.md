@@ -11,4 +11,5 @@ every number.
 
 | Date | Experiment | Launch | What I found |
 |---|---|---|---|
+| 2026-11-14 | [llmon-transfer](2026-11-14-llmon-transfer/) | [IBM LLMON + Granite 4.1 LLMON preview](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite) | LLMON markup pasted into models never trained on it: a fake instruction block in the prompt's own syntax hijacked Sonnet 5.5 18/20 with XML tags, 1/20 with LLMON (10 synthetic tasks, benign canary, 2 runs). Haiku 4.5 obeyed 0. Granite run pending disk space. |
 | 2026-11-13 | [decision-calibration](2026-11-13-decision-calibration/) | [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) | Harness + Claude baseline: on 80 synthetic support messages, Sonnet 5.5 hedged on true yeses (28.1% sent to a human vs 12.5% for Haiku 4.5); Haiku moved 0.80 → 0.15 on one message between runs. Gemini run pending a key. |
