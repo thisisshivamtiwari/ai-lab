@@ -1,0 +1,11 @@
+[project]
+name = "botpsy-injection"
+version = "0.1.0"
+description = "A 0.8B on-device tool-calling model vs its own base model: what happens when a tool result carries an instruction?"
+requires-python = ">=3.11"
+dependencies = [
+    "mlx-lm==0.32.2",
+    "mlx==0.32.4",
+    "transformers==5.23.0",
+    "matplotlib==3.10.7",
+]

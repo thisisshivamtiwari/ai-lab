@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-15-botpsy-injection",
+  "date": "2026-11-15",
+  "slug": "botpsy-injection",
+  "launch": {
+   "name": "QVAC BotPsy-0.8B (Tether AI Research)",
+   "official": "https://huggingface.co/blog/qvac/botpsy",
+   "second": "https://casrai.org/news/huggingface-qvac-botpsy-sub-billion-agentic-model-2026"
+  },
+  "skills": [
+   "AI security / prompt injection",
+   "agent tool calling",
+   "LLM evaluation",
+   "on-device / small open models (MLX)"
+  ],
+  "media": "2026-11-15-botpsy-injection/media/injection.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "BotPsy-0.8B vs Qwen3.5-0.8B, BF16 via mlx-lm 0.32.2, 180 completions; weights deleted after the run"
+ },
+ {
   "id": "2026-11-14-llmon-transfer",
   "date": "2026-11-14",
   "slug": "llmon-transfer",
@@ -15,7 +35,11 @@
   ],
   "media": "2026-11-14-llmon-transfer/media/spoof-obeyed.png",
   "status": "shipped",
-  "posted": {},
+  "posted": {
+   "linkedinScheduled": "2026-11-15T12:00",
+   "linkedin": "https://www.linkedin.com/feed/update/urn:li:activity:7527701996318113792/",
+   "linkedinFirstComment": "2026-11-15T12:55"
+  },
   "notes": "Claude Haiku 4.5 + Sonnet 5.5 via claude -p; Granite LLMON models not run (disk 9.1 GB free)"
  },
  {
