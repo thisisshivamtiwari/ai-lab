@@ -1,0 +1,182 @@
+[
+ {
+  "no": 0,
+  "text": "The invoice total is £1,249.50 including VAT.",
+  "spoken": "The invoice total is one thousand two hundred and forty nine pounds fifty pence including VAT."
+ },
+ {
+  "no": 1,
+  "text": "Tickets start at $18.99 each.",
+  "spoken": "Tickets start at eighteen dollars ninety nine cents each."
+ },
+ {
+  "no": 2,
+  "text": "We paid €3.2 million for the site.",
+  "spoken": "We paid three point two million euros for the site."
+ },
+ {
+  "no": 3,
+  "text": "The fee rose from £45 to £60.",
+  "spoken": "The fee rose from forty five pounds to sixty pounds."
+ },
+ {
+  "no": 4,
+  "text": "Check-in is on 14/02/2027.",
+  "spoken": "Check-in is on the fourteenth of february twenty twenty seven."
+ },
+ {
+  "no": 5,
+  "text": "The deadline is 3 March 2027.",
+  "spoken": "The deadline is the third of march twenty twenty seven."
+ },
+ {
+  "no": 6,
+  "text": "The meeting moved to Tue 9 Feb.",
+  "spoken": "The meeting moved to Tue the ninth of february"
+ },
+ {
+  "no": 7,
+  "text": "Founded in 1998, rebuilt in 2004.",
+  "spoken": "Founded in nineteen ninety eight, rebuilt in two thousand four."
+ },
+ {
+  "no": 8,
+  "text": "Your train leaves at 07:45.",
+  "spoken": "Your train leaves at seven forty five."
+ },
+ {
+  "no": 9,
+  "text": "The shop is open 9am-5:30pm.",
+  "spoken": "The shop is open nine AM to five thirty PM."
+ },
+ {
+  "no": 10,
+  "text": "Call back at 18:00 UK time.",
+  "spoken": "Call back at eighteen o'clock UK time."
+ },
+ {
+  "no": 11,
+  "text": "The run took 2h 15m.",
+  "spoken": "The run took two H fifteen M."
+ },
+ {
+  "no": 12,
+  "text": "Occupancy rose 12.5% this quarter.",
+  "spoken": "Occupancy rose twelve point five percent this quarter."
+ },
+ {
+  "no": 13,
+  "text": "The error rate fell to 0.03%.",
+  "spoken": "The error rate fell to zero point zero three percent."
+ },
+ {
+  "no": 14,
+  "text": "Pi is about 3.14159.",
+  "spoken": "Pi is about three point one four one five nine."
+ },
+ {
+  "no": 15,
+  "text": "Use a ratio of 3:1.",
+  "spoken": "Use a ratio of three:one."
+ },
+ {
+  "no": 16,
+  "text": "Your booking reference is QX7-42B.",
+  "spoken": "Your booking reference is QX seven-forty two B."
+ },
+ {
+  "no": 17,
+  "text": "Flight BA2490 departs from gate 23.",
+  "spoken": "Flight BA two thousand four hundred ninety departs from gate twenty three."
+ },
+ {
+  "no": 18,
+  "text": "Enter code 4417 when asked.",
+  "spoken": "Enter code four thousand four hundred and seventeen when asked."
+ },
+ {
+  "no": 19,
+  "text": "The postcode is SW1A 1AA.",
+  "spoken": "The postcode is SW one A one AA."
+ },
+ {
+  "no": 20,
+  "text": "The site is 5 km from the airport.",
+  "spoken": "The site is five kilometers from the airport."
+ },
+ {
+  "no": 21,
+  "text": "Set the oven to 180°C.",
+  "spoken": "Set the oven to one hundred and eighty degrees Celsius."
+ },
+ {
+  "no": 22,
+  "text": "The file is 2.4 GB.",
+  "spoken": "The file is two point four GB."
+ },
+ {
+  "no": 23,
+  "text": "Add 250 ml of milk.",
+  "spoken": "Add two hundred and fifty milliliters of milk."
+ },
+ {
+  "no": 24,
+  "text": "She finished 21st out of 300.",
+  "spoken": "She finished twenty first out of three hundred."
+ },
+ {
+  "no": 25,
+  "text": "Read chapters 3-7 first.",
+  "spoken": "Read chapters three-seven first."
+ },
+ {
+  "no": 26,
+  "text": "Rooms 101–110 are on the 1st floor.",
+  "spoken": "Rooms one hundred and one– one hundred and ten are on the first floor."
+ },
+ {
+  "no": 27,
+  "text": "It's the 2nd time this week.",
+  "spoken": "It's the second time this week."
+ },
+ {
+  "no": 28,
+  "text": "Dr. Smith works at St. James Hospital.",
+  "spoken": "doctor Smith works at Saint James Hospital."
+ },
+ {
+  "no": 29,
+  "text": "The API returns JSON over HTTPS.",
+  "spoken": "The API returns JSON over HTTPS."
+ },
+ {
+  "no": 30,
+  "text": "Our ETA is approx. 10 min.",
+  "spoken": "Our ETA is approx. ten minutes."
+ },
+ {
+  "no": 31,
+  "text": "Send the PDF to the HR team ASAP.",
+  "spoken": "Send the PDF to the HR team ASAP."
+ },
+ {
+  "no": 32,
+  "text": "The city has 8,945,000 residents.",
+  "spoken": "The city has eight million nine hundred forty five thousand residents."
+ },
+ {
+  "no": 33,
+  "text": "Revenue hit $2.7bn in 2026.",
+  "spoken": "Revenue hit two point seven billion dollars in twenty twenty six."
+ },
+ {
+  "no": 34,
+  "text": "Population grew by 1,200 to 15,750.",
+  "spoken": "Population grew by one thousand two hundred to fifteen thousand seven hundred and fifty."
+ },
+ {
+  "no": 35,
+  "text": "The year 1066 changed England.",
+  "spoken": "The year ten sixty six changed England."
+ }
+]

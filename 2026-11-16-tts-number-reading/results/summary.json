@@ -1,0 +1,836 @@
+{
+ "setup": "36 items x 3 seeds for each ZONOS3-Mini condition (n=108), 36 items once for macOS say (n=36); BritishFemale stock voice, en_gb, backbone-ptq.gguf + zac-keep2 decoder on the MLX server; transcribed with mlx-community/whisper-large-v3-turbo, temperature 0",
+ "overall": {
+  "zonos3-norm-on": {
+   "passed": 93,
+   "n": 108
+  },
+  "zonos3-norm-off": {
+   "passed": 59,
+   "n": 108
+  },
+  "macos-say": {
+   "passed": 33,
+   "n": 36
+  }
+ },
+ "early_stop": {
+  "zonos3-norm-on": 0,
+  "zonos3-norm-off": 3,
+  "macos-say": 0
+ },
+ "by_category": {
+  "zonos3-norm-on": {
+   "currency": {
+    "passed": 12,
+    "n": 12
+   },
+   "dates": {
+    "passed": 9,
+    "n": 12
+   },
+   "times": {
+    "passed": 9,
+    "n": 12
+   },
+   "decimals": {
+    "passed": 12,
+    "n": 12
+   },
+   "codes": {
+    "passed": 12,
+    "n": 12
+   },
+   "units": {
+    "passed": 12,
+    "n": 12
+   },
+   "ordinals": {
+    "passed": 6,
+    "n": 12
+   },
+   "abbreviations": {
+    "passed": 9,
+    "n": 12
+   },
+   "large numbers": {
+    "passed": 12,
+    "n": 12
+   }
+  },
+  "zonos3-norm-off": {
+   "currency": {
+    "passed": 3,
+    "n": 12
+   },
+   "dates": {
+    "passed": 3,
+    "n": 12
+   },
+   "times": {
+    "passed": 5,
+    "n": 12
+   },
+   "decimals": {
+    "passed": 7,
+    "n": 12
+   },
+   "codes": {
+    "passed": 9,
+    "n": 12
+   },
+   "units": {
+    "passed": 9,
+    "n": 12
+   },
+   "ordinals": {
+    "passed": 9,
+    "n": 12
+   },
+   "abbreviations": {
+    "passed": 9,
+    "n": 12
+   },
+   "large numbers": {
+    "passed": 5,
+    "n": 12
+   }
+  },
+  "macos-say": {
+   "currency": {
+    "passed": 4,
+    "n": 4
+   },
+   "dates": {
+    "passed": 4,
+    "n": 4
+   },
+   "times": {
+    "passed": 3,
+    "n": 4
+   },
+   "decimals": {
+    "passed": 4,
+    "n": 4
+   },
+   "codes": {
+    "passed": 4,
+    "n": 4
+   },
+   "units": {
+    "passed": 4,
+    "n": 4
+   },
+   "ordinals": {
+    "passed": 2,
+    "n": 4
+   },
+   "abbreviations": {
+    "passed": 4,
+    "n": 4
+   },
+   "large numbers": {
+    "passed": 4,
+    "n": 4
+   }
+  }
+ },
+ "failures": [
+  {
+   "no": 0,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is £1,449.50 including VAT.",
+   "missed": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "no": 0,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is £1,049.50.",
+   "missed": [
+    "£1,249.50",
+    "VAT"
+   ]
+  },
+  {
+   "no": 0,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is £1,449, 50 including...",
+   "missed": [
+    "£1,249.50",
+    "VAT"
+   ]
+  },
+  {
+   "no": 1,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Tickets start at $18.99 each.",
+   "heard": "Tickets start at 18.9.",
+   "missed": [
+    "$18.99"
+   ]
+  },
+  {
+   "no": 2,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "We paid €3.2 million for the site.",
+   "heard": "We paid 3.2 million for the site.",
+   "missed": [
+    "€3.2 million"
+   ]
+  },
+  {
+   "no": 2,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "We paid €3.2 million for the site.",
+   "heard": "We paid 3.2 million for the site.",
+   "missed": [
+    "€3.2 million"
+   ]
+  },
+  {
+   "no": 2,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "We paid €3.2 million for the site.",
+   "heard": "We paid 3.2 million for the site.",
+   "missed": [
+    "€3.2 million"
+   ]
+  },
+  {
+   "no": 3,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from £40 to £60.",
+   "missed": [
+    "£45"
+   ]
+  },
+  {
+   "no": 3,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 to 60.",
+   "missed": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "no": 4,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Check-in is on 14/02/2027.",
+   "heard": "Thank you.",
+   "missed": [
+    "14th of February",
+    "2027"
+   ]
+  },
+  {
+   "no": 4,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Check-in is on 14/02/2027.",
+   "heard": "Check-in is on 14.02.",
+   "missed": [
+    "14th of February",
+    "2027"
+   ]
+  },
+  {
+   "no": 4,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Check-in is on 14/02/2027.",
+   "heard": "Thank you.",
+   "missed": [
+    "14th of February",
+    "2027"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-on",
+   "seed": 1,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tew 9 February.",
+   "missed": [
+    "Tuesday"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to 29 Feb.",
+   "missed": [
+    "Tuesday",
+    "9th of February"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-on",
+   "seed": 2,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tew 9 February.",
+   "missed": [
+    "Tuesday"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to 2-9 Feb.",
+   "missed": [
+    "Tuesday",
+    "9th of February"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-on",
+   "seed": 3,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tew 9 February.",
+   "missed": [
+    "Tuesday"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to 2-9 Feb.",
+   "missed": [
+    "Tuesday",
+    "9th of February"
+   ]
+  },
+  {
+   "no": 7,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Founded in 1998, rebuilt in 2004.",
+   "heard": "Founded in 19...",
+   "missed": [
+    "1998",
+    "2004"
+   ]
+  },
+  {
+   "no": 7,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Founded in 1998, rebuilt in 2004.",
+   "heard": "Founded in 1998.",
+   "missed": [
+    "2004"
+   ]
+  },
+  {
+   "no": 7,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Founded in 1998, rebuilt in 2004.",
+   "heard": "Founded in 1998",
+   "missed": [
+    "2004"
+   ]
+  },
+  {
+   "no": 9,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The shop is open 9am-5:30pm.",
+   "heard": "Thank you.",
+   "missed": [
+    "9am",
+    "5:30pm"
+   ]
+  },
+  {
+   "no": 10,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back at 18 surrogue.",
+   "missed": [
+    "18:00",
+    "UK"
+   ]
+  },
+  {
+   "no": 10,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back at 18 to a K time.",
+   "missed": [
+    "18:00",
+    "UK"
+   ]
+  },
+  {
+   "no": 10,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back at 18.",
+   "missed": [
+    "18:00",
+    "UK"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-on",
+   "seed": 1,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two H15",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took 2h.",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-on",
+   "seed": 2,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two H15M.",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two H15.",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-on",
+   "seed": 3,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two H15M.",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two age 15",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "macos-say",
+   "seed": 0,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took 2h15 meters.",
+   "missed": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 13,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The error rate fell to 0.03%.",
+   "heard": "The error rate fell to 0.03.",
+   "missed": [
+    "0.03%"
+   ]
+  },
+  {
+   "no": 13,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The error rate fell to 0.03%.",
+   "heard": "The error rate fell to 0.03.",
+   "missed": [
+    "0.03%"
+   ]
+  },
+  {
+   "no": 14,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Pi is about 3.14159.",
+   "heard": "Pi is about 3.4 form 5.",
+   "missed": [
+    "3.14159"
+   ]
+  },
+  {
+   "no": 14,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Pi is about 3.14159.",
+   "heard": "Pi is about 3.4459.",
+   "missed": [
+    "3.14159"
+   ]
+  },
+  {
+   "no": 14,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Pi is about 3.14159.",
+   "heard": "Pi is about 3.445.",
+   "missed": [
+    "3.14159"
+   ]
+  },
+  {
+   "no": 19,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The postcode is SW1A 1AA.",
+   "heard": "The postcode is SWOUCH1A1AE",
+   "missed": [
+    "SW1A 1AA"
+   ]
+  },
+  {
+   "no": 19,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The postcode is SW1A 1AA.",
+   "heard": "The postcode is SWECH1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A",
+   "missed": [
+    "SW1A 1AA"
+   ]
+  },
+  {
+   "no": 19,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The postcode is SW1A 1AA.",
+   "heard": "The postcode is SWEPSH1A1DA",
+   "missed": [
+    "SW1A 1AA"
+   ]
+  },
+  {
+   "no": 23,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Add 250 ml of milk.",
+   "heard": "add 250 millimetres of milk",
+   "missed": [
+    "250 ml"
+   ]
+  },
+  {
+   "no": 23,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Add 250 ml of milk.",
+   "heard": "add 250 millie of milk",
+   "missed": [
+    "250 ml"
+   ]
+  },
+  {
+   "no": 23,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Add 250 ml of milk.",
+   "heard": "Add 250 millis of milk.",
+   "missed": [
+    "250 ml"
+   ]
+  },
+  {
+   "no": 24,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "She finished 21st out of 300.",
+   "heard": "She finished 21st out of three.",
+   "missed": [
+    "300"
+   ]
+  },
+  {
+   "no": 25,
+   "condition": "zonos3-norm-on",
+   "seed": 1,
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3-7 first.",
+   "missed": [
+    "3 to 7"
+   ]
+  },
+  {
+   "no": 25,
+   "condition": "zonos3-norm-on",
+   "seed": 2,
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3-7 first.",
+   "missed": [
+    "3 to 7"
+   ]
+  },
+  {
+   "no": 25,
+   "condition": "zonos3-norm-on",
+   "seed": 3,
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3-7 first.",
+   "missed": [
+    "3 to 7"
+   ]
+  },
+  {
+   "no": 25,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3-7 first.",
+   "missed": [
+    "3 to 7"
+   ]
+  },
+  {
+   "no": 25,
+   "condition": "macos-say",
+   "seed": 0,
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3 7 first.",
+   "missed": [
+    "3 to 7"
+   ]
+  },
+  {
+   "no": 26,
+   "condition": "zonos3-norm-on",
+   "seed": 1,
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms 101, 110 are on the first floor.",
+   "missed": [
+    "101 to 110"
+   ]
+  },
+  {
+   "no": 26,
+   "condition": "zonos3-norm-on",
+   "seed": 2,
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms 101, 110 are on the first floor.",
+   "missed": [
+    "101 to 110"
+   ]
+  },
+  {
+   "no": 26,
+   "condition": "zonos3-norm-on",
+   "seed": 3,
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms 100 and 110 are on the first floor.",
+   "missed": [
+    "101 to 110"
+   ]
+  },
+  {
+   "no": 26,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms 10110i on the first floor.",
+   "missed": [
+    "101 to 110"
+   ]
+  },
+  {
+   "no": 26,
+   "condition": "macos-say",
+   "seed": 0,
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms 101-110 are on the first floor.",
+   "missed": [
+    "101 to 110"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-on",
+   "seed": 1,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "RETA is a prox 10 minutes.",
+   "missed": [
+    "approximately"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "Our ETA is a prox 10 min.",
+   "missed": [
+    "approximately",
+    "ten minutes"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-on",
+   "seed": 2,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "RETA is a prox. 10 minutes.",
+   "missed": [
+    "approximately"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "RETA is a prox 10 min.",
+   "missed": [
+    "approximately",
+    "ten minutes"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-on",
+   "seed": 3,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "Our ETA is a prox. 10 minutes.",
+   "missed": [
+    "approximately"
+   ]
+  },
+  {
+   "no": 30,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "Our ETA is a prox 10 min.",
+   "missed": [
+    "approximately",
+    "ten minutes"
+   ]
+  },
+  {
+   "no": 32,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "The city has 8,945,000 residents.",
+   "heard": "The city has 8,900.",
+   "missed": [
+    "8,945,000"
+   ]
+  },
+  {
+   "no": 32,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "The city has 8,945,000 residents.",
+   "heard": "The city has 8,950.",
+   "missed": [
+    "8,945,000"
+   ]
+  },
+  {
+   "no": 32,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "The city has 8,945,000 residents.",
+   "heard": "The city has 8,900.",
+   "missed": [
+    "8,945,000"
+   ]
+  },
+  {
+   "no": 33,
+   "condition": "zonos3-norm-off",
+   "seed": 1,
+   "text": "Revenue hit $2.7bn in 2026.",
+   "heard": "Revenue hit 2.7 BN in 2020.",
+   "missed": [
+    "$2.7 billion",
+    "2026"
+   ]
+  },
+  {
+   "no": 33,
+   "condition": "zonos3-norm-off",
+   "seed": 2,
+   "text": "Revenue hit $2.7bn in 2026.",
+   "heard": "Revenue hit 2.7 BN.",
+   "missed": [
+    "$2.7 billion",
+    "2026"
+   ]
+  },
+  {
+   "no": 33,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Revenue hit $2.7bn in 2026.",
+   "heard": "Revenue hit 2.7bn in 2026.",
+   "missed": [
+    "$2.7 billion"
+   ]
+  },
+  {
+   "no": 34,
+   "condition": "zonos3-norm-off",
+   "seed": 3,
+   "text": "Population grew by 1,200 to 15,750.",
+   "heard": "population grew by 1200 to 5750",
+   "missed": [
+    "15,750"
+   ]
+  }
+ ]
+}

@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-16-tts-number-reading",
+  "date": "2026-11-16",
+  "slug": "tts-number-reading",
+  "launch": {
+   "name": "Zyphra ZONOS3-Mini (open TTS, 100M active)",
+   "official": "https://www.zyphra.com/our-work/zonos3-mini",
+   "second": "https://aireiter.com/blog/zonos3-mini-review"
+  },
+  "skills": [
+   "speech AI / voice agents (TTS)",
+   "LLM evaluation",
+   "on-device / small open models (MLX)",
+   "text normalisation"
+  ],
+  "media": "2026-11-16-tts-number-reading/media/categories.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "ZONOS3-Mini MLX server (backbone-ptq + zac-keep2), BritishFemale voice, 36 items x 3 seeds per condition + macOS say; Whisper large-v3-turbo round trip; GGUF weights deleted after the run"
+ },
+ {
   "id": "2026-11-15-botpsy-injection",
   "date": "2026-11-15",
   "slug": "botpsy-injection",

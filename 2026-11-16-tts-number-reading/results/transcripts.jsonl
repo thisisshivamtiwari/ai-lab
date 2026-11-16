@@ -1,0 +1,252 @@
+{"no": 0, "condition": "zonos3-norm-on", "seed": 1, "seconds": 6.87, "heard": "The invoice total is \u00a31,249.50 including VAT."}
+{"no": 0, "condition": "zonos3-norm-off", "seed": 1, "seconds": 8.73, "heard": "The invoice total is \u00a31,449.50 including VAT."}
+{"no": 0, "condition": "zonos3-norm-on", "seed": 2, "seconds": 7.0, "heard": "The invoice total is \u00a31,249.50 including VAT."}
+{"no": 0, "condition": "zonos3-norm-off", "seed": 2, "seconds": 5.13, "heard": "The invoice total is \u00a31,049.50."}
+{"no": 0, "condition": "zonos3-norm-on", "seed": 3, "seconds": 7.53, "heard": "The invoice total is \u00a31,249.50, including VAT."}
+{"no": 0, "condition": "zonos3-norm-off", "seed": 3, "seconds": 7.67, "heard": "The invoice total is \u00a31,449, 50 including..."}
+{"no": 0, "condition": "macos-say", "seed": 0, "seconds": 5.94, "heard": "The invoice total is \u00a31,249.50 including VAT."}
+{"no": 1, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.0, "heard": "Tickets start at $18.99 each."}
+{"no": 1, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.87, "heard": "Tickets start at 18.9."}
+{"no": 1, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.13, "heard": "Tickets start at $18.99 each."}
+{"no": 1, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.6, "heard": "Tickets start at $18.99."}
+{"no": 1, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.6, "heard": "Tickets start at $18.99 each."}
+{"no": 1, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.07, "heard": "Tickets start at $18.99."}
+{"no": 1, "condition": "macos-say", "seed": 0, "seconds": 3.54, "heard": "Tickets start at $18.99 each."}
+{"no": 2, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.13, "heard": "We paid 3.2 million euros for the site."}
+{"no": 2, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.73, "heard": "We paid 3.2 million for the site."}
+{"no": 2, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.67, "heard": "We paid 3.2 million euros for the site."}
+{"no": 2, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.27, "heard": "We paid 3.2 million for the site."}
+{"no": 2, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.8, "heard": "We paid 3.2 million euros for the site."}
+{"no": 2, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.87, "heard": "We paid 3.2 million for the site."}
+{"no": 2, "condition": "macos-say", "seed": 0, "seconds": 2.96, "heard": "We paid 3.2 million euros for the site."}
+{"no": 3, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.07, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 3, "condition": "zonos3-norm-off", "seed": 1, "seconds": 4.27, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 3, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.2, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 3, "condition": "zonos3-norm-off", "seed": 2, "seconds": 4.07, "heard": "The fee rose from \u00a340 to \u00a360."}
+{"no": 3, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.33, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 3, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.07, "heard": "The fee rose from 45 to 60."}
+{"no": 3, "condition": "macos-say", "seed": 0, "seconds": 3.49, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 4, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.93, "heard": "Check-in is on the 14th of February 2027."}
+{"no": 4, "condition": "zonos3-norm-off", "seed": 1, "seconds": 0.47, "heard": "Thank you."}
+{"no": 4, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.2, "heard": "Check-in is on the 14th of February 2027."}
+{"no": 4, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.27, "heard": "Check-in is on 14.02."}
+{"no": 4, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.6, "heard": "Check-in is on the 14th of February 2027."}
+{"no": 4, "condition": "zonos3-norm-off", "seed": 3, "seconds": 0.33, "heard": "Thank you."}
+{"no": 4, "condition": "macos-say", "seed": 0, "seconds": 3.86, "heard": "Check-in is on the 14th of February 2027."}
+{"no": 5, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.93, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.8, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.8, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.47, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.0, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "zonos3-norm-off", "seed": 3, "seconds": 5.07, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "macos-say", "seed": 0, "seconds": 3.56, "heard": "The deadline is the 3rd of March, 2027."}
+{"no": 6, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.27, "heard": "The meeting moved to Tew 9 February."}
+{"no": 6, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.67, "heard": "The meeting moved to 29 Feb."}
+{"no": 6, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.93, "heard": "The meeting moved to Tew 9 February."}
+{"no": 6, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.33, "heard": "The meeting moved to 2-9 Feb."}
+{"no": 6, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.6, "heard": "The meeting moved to Tew 9 February."}
+{"no": 6, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.07, "heard": "The meeting moved to 2-9 Feb."}
+{"no": 6, "condition": "macos-say", "seed": 0, "seconds": 2.83, "heard": "The meeting moved to Tuesday 9 February."}
+{"no": 7, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.87, "heard": "Founded in 1998, rebuilt in 2004."}
+{"no": 7, "condition": "zonos3-norm-off", "seed": 1, "seconds": 1.67, "heard": "Founded in 19..."}
+{"no": 7, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.47, "heard": "Founded in 1998, rebuilt in 2004."}
+{"no": 7, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.53, "heard": "Founded in 1998."}
+{"no": 7, "condition": "zonos3-norm-on", "seed": 3, "seconds": 5.27, "heard": "Founded in 1998, rebuilt in 2004."}
+{"no": 7, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.6, "heard": "Founded in 1998"}
+{"no": 7, "condition": "macos-say", "seed": 0, "seconds": 4.0, "heard": "Founded in 1998. Rebuilt in 2004."}
+{"no": 8, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.13, "heard": "Your train leaves at 7.45."}
+{"no": 8, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.4, "heard": "Your train leaves at 07.45."}
+{"no": 8, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.2, "heard": "Your train leaves at 7.45."}
+{"no": 8, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.67, "heard": "Your train leaves at 07.45."}
+{"no": 8, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.2, "heard": "Your train leaves at 7.45."}
+{"no": 8, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.87, "heard": "Your train leaves at 7.45."}
+{"no": 8, "condition": "macos-say", "seed": 0, "seconds": 2.36, "heard": "Your train leaves at 7.45."}
+{"no": 9, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.13, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 9, "condition": "zonos3-norm-off", "seed": 1, "seconds": 0.47, "heard": "Thank you."}
+{"no": 9, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.8, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 9, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.8, "heard": "The shop is open 9am 5.30pm."}
+{"no": 9, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.6, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 9, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.4, "heard": "The shop is open 9am 5.30pm"}
+{"no": 9, "condition": "macos-say", "seed": 0, "seconds": 3.2, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 10, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.73, "heard": "Call back at 18 o'clock UK time."}
+{"no": 10, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.53, "heard": "Call back at 18 surrogue."}
+{"no": 10, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.0, "heard": "Call back at 18 o'clock UK time."}
+{"no": 10, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.6, "heard": "Call back at 18 to a K time."}
+{"no": 10, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.33, "heard": "Call back at 18 o'clock UK time."}
+{"no": 10, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.33, "heard": "Call back at 18."}
+{"no": 10, "condition": "macos-say", "seed": 0, "seconds": 2.96, "heard": "Call back at 1800 hours UK time."}
+{"no": 11, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.27, "heard": "The run took two H15"}
+{"no": 11, "condition": "zonos3-norm-off", "seed": 1, "seconds": 1.73, "heard": "The run took 2h."}
+{"no": 11, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.67, "heard": "The run took two H15M."}
+{"no": 11, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.47, "heard": "The run took two H15."}
+{"no": 11, "condition": "zonos3-norm-on", "seed": 3, "seconds": 2.73, "heard": "The run took two H15M."}
+{"no": 11, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.87, "heard": "The run took two age 15"}
+{"no": 11, "condition": "macos-say", "seed": 0, "seconds": 2.44, "heard": "The run took 2h15 meters."}
+{"no": 12, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.53, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.8, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.27, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "zonos3-norm-off", "seed": 2, "seconds": 5.07, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.93, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.6, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "macos-say", "seed": 0, "seconds": 3.33, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 13, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.87, "heard": "The error rate fell to 0.03%."}
+{"no": 13, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.33, "heard": "The error rate fell to 0.03."}
+{"no": 13, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.67, "heard": "The error rate fell to 0.03%."}
+{"no": 13, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.8, "heard": "The error rate fell to 0.03."}
+{"no": 13, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.13, "heard": "The error rate fell to 0.03%."}
+{"no": 13, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.13, "heard": "The error rate fell to 0.03%."}
+{"no": 13, "condition": "macos-say", "seed": 0, "seconds": 3.26, "heard": "The error rate fell to 0.03%."}
+{"no": 14, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.93, "heard": "Pi is about 3.14159."}
+{"no": 14, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.53, "heard": "Pi is about 3.4 form 5."}
+{"no": 14, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.4, "heard": "Pi is about 3.14159."}
+{"no": 14, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.87, "heard": "Pi is about 3.4459."}
+{"no": 14, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.6, "heard": "Pi is about 3.14159."}
+{"no": 14, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.0, "heard": "Pi is about 3.445."}
+{"no": 14, "condition": "macos-say", "seed": 0, "seconds": 3.09, "heard": "Pi is about 3.14159."}
+{"no": 15, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.73, "heard": "Use a ratio of 3, 1."}
+{"no": 15, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.47, "heard": "Use a ratio of 3-1."}
+{"no": 15, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.73, "heard": "Use a ratio of 3.1."}
+{"no": 15, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.2, "heard": "Use a ratio of 3-1."}
+{"no": 15, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.6, "heard": "Use a ratio of 3, 1."}
+{"no": 15, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.13, "heard": "Use a ratio of 3-1."}
+{"no": 15, "condition": "macos-say", "seed": 0, "seconds": 2.35, "heard": "Use a ratio of 3.1"}
+{"no": 16, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.87, "heard": "Your booking reference is QX742B."}
+{"no": 16, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.93, "heard": "Your booking reference is QX7 42B."}
+{"no": 16, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.53, "heard": "Your booking reference is QX742B."}
+{"no": 16, "condition": "zonos3-norm-off", "seed": 2, "seconds": 4.4, "heard": "Your booking reference is QX7 42B."}
+{"no": 16, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.47, "heard": "Your booking reference is QX742B."}
+{"no": 16, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.27, "heard": "Your booking reference is QX742B."}
+{"no": 16, "condition": "macos-say", "seed": 0, "seconds": 3.5, "heard": "Your booking reference is QX7-42B."}
+{"no": 17, "condition": "zonos3-norm-on", "seed": 1, "seconds": 5.47, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 17, "condition": "zonos3-norm-off", "seed": 1, "seconds": 5.2, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 17, "condition": "zonos3-norm-on", "seed": 2, "seconds": 5.13, "heard": "Flight BA 2490 departs from gate 23."}
+{"no": 17, "condition": "zonos3-norm-off", "seed": 2, "seconds": 4.4, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 17, "condition": "zonos3-norm-on", "seed": 3, "seconds": 5.6, "heard": "Flight BA 2490 departs from gate 23."}
+{"no": 17, "condition": "zonos3-norm-off", "seed": 3, "seconds": 5.6, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 17, "condition": "macos-say", "seed": 0, "seconds": 4.51, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 18, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.93, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.4, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.13, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.67, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.93, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.07, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "macos-say", "seed": 0, "seconds": 3.43, "heard": "Enter code 4417 when asked."}
+{"no": 19, "condition": "zonos3-norm-on", "seed": 1, "seconds": 5.0, "heard": "The postcode is SW1A1AA."}
+{"no": 19, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.6, "heard": "The postcode is SWOUCH1A1AE"}
+{"no": 19, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.8, "heard": "The postcode is SW1A1AA."}
+{"no": 19, "condition": "zonos3-norm-off", "seed": 2, "seconds": 4.53, "heard": "The postcode is SWECH1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A"}
+{"no": 19, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.87, "heard": "The postcode is SW1A1AA."}
+{"no": 19, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.4, "heard": "The postcode is SWEPSH1A1DA"}
+{"no": 19, "condition": "macos-say", "seed": 0, "seconds": 3.1, "heard": "The postcode is SW1A. 1AA."}
+{"no": 20, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.33, "heard": "The site is 5km from the airport."}
+{"no": 20, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.13, "heard": "The site is five kilometers from the airport."}
+{"no": 20, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.07, "heard": "The site is 5 kilometres from the airport."}
+{"no": 20, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.93, "heard": "The site is 5km from the airport."}
+{"no": 20, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.6, "heard": "The site is 5 kilometers from the airport."}
+{"no": 20, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.6, "heard": "The site is 5 kilometers from the airport."}
+{"no": 20, "condition": "macos-say", "seed": 0, "seconds": 2.64, "heard": "The site is 5 kilometers from the airport."}
+{"no": 21, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.93, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 21, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.53, "heard": "Set the oven to 180 degrees seal."}
+{"no": 21, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.93, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 21, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.0, "heard": "Set the oven to 180 degrees."}
+{"no": 21, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.07, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 21, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.87, "heard": "Set the oven to 180 degrees CC."}
+{"no": 21, "condition": "macos-say", "seed": 0, "seconds": 3.18, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 22, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.47, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.27, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.93, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.6, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "zonos3-norm-on", "seed": 3, "seconds": 2.73, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.6, "heard": "The file is 2.4 GB."}
+{"no": 22, "condition": "macos-say", "seed": 0, "seconds": 2.23, "heard": "The file is 2.4 GB."}
+{"no": 23, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.33, "heard": "Add 250 millilitres of milk."}
+{"no": 23, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.0, "heard": "add 250 millimetres of milk"}
+{"no": 23, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.33, "heard": "Add 250 millilitres of milk."}
+{"no": 23, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.27, "heard": "add 250 millie of milk"}
+{"no": 23, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.4, "heard": "Add 250 millilitres of milk."}
+{"no": 23, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.0, "heard": "Add 250 millis of milk."}
+{"no": 23, "condition": "macos-say", "seed": 0, "seconds": 2.72, "heard": "Add 250 milliliters of milk."}
+{"no": 24, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.13, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.73, "heard": "She finished 21st out of three."}
+{"no": 24, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.07, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.07, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.67, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.73, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "macos-say", "seed": 0, "seconds": 2.6, "heard": "She finished 21st out of 300."}
+{"no": 25, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.47, "heard": "Read chapters 3-7 first."}
+{"no": 25, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.6, "heard": "Read chapters 3 to 7 first."}
+{"no": 25, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.67, "heard": "Read chapters 3-7 first."}
+{"no": 25, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.47, "heard": "Read chapters 3 to 7 first."}
+{"no": 25, "condition": "zonos3-norm-on", "seed": 3, "seconds": 2.87, "heard": "Read chapters 3-7 first."}
+{"no": 25, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.93, "heard": "Read chapters 3-7 first."}
+{"no": 25, "condition": "macos-say", "seed": 0, "seconds": 2.24, "heard": "Read chapters 3 7 first."}
+{"no": 26, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.2, "heard": "Rooms 101, 110 are on the first floor."}
+{"no": 26, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.6, "heard": "Rooms 101 to 110 are on the first floor."}
+{"no": 26, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.2, "heard": "Rooms 101, 110 are on the first floor."}
+{"no": 26, "condition": "zonos3-norm-off", "seed": 2, "seconds": 4.13, "heard": "Rooms 101 to 110 are on the first floor."}
+{"no": 26, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.73, "heard": "Rooms 100 and 110 are on the first floor."}
+{"no": 26, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.33, "heard": "Rooms 10110i on the first floor."}
+{"no": 26, "condition": "macos-say", "seed": 0, "seconds": 3.98, "heard": "Rooms 101-110 are on the first floor."}
+{"no": 27, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.13, "heard": "It's the second time this week."}
+{"no": 27, "condition": "zonos3-norm-off", "seed": 1, "seconds": 2.0, "heard": "It's the second time this week."}
+{"no": 27, "condition": "zonos3-norm-on", "seed": 2, "seconds": 2.13, "heard": "It's the second time this week."}
+{"no": 27, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.0, "heard": "It's the second time this week."}
+{"no": 27, "condition": "zonos3-norm-on", "seed": 3, "seconds": 2.4, "heard": "It's the second time this week."}
+{"no": 27, "condition": "zonos3-norm-off", "seed": 3, "seconds": 2.6, "heard": "It's the second time this week."}
+{"no": 27, "condition": "macos-say", "seed": 0, "seconds": 1.86, "heard": "It's the second time this week."}
+{"no": 28, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.27, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 28, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.13, "heard": "Dr Smith works at St James Hospital."}
+{"no": 28, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.2, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 28, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.0, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 28, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.8, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 28, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.53, "heard": "Dr Smith works at St James Hospital."}
+{"no": 28, "condition": "macos-say", "seed": 0, "seconds": 2.89, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 29, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.13, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "zonos3-norm-off", "seed": 1, "seconds": 4.13, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.93, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.93, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "zonos3-norm-on", "seed": 3, "seconds": 4.67, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.67, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "macos-say", "seed": 0, "seconds": 3.89, "heard": "The API returns JSON over HTTPS."}
+{"no": 30, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.8, "heard": "RETA is a prox 10 minutes."}
+{"no": 30, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.73, "heard": "Our ETA is a prox 10 min."}
+{"no": 30, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.47, "heard": "RETA is a prox. 10 minutes."}
+{"no": 30, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.6, "heard": "RETA is a prox 10 min."}
+{"no": 30, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.87, "heard": "Our ETA is a prox. 10 minutes."}
+{"no": 30, "condition": "zonos3-norm-off", "seed": 3, "seconds": 4.07, "heard": "Our ETA is a prox 10 min."}
+{"no": 30, "condition": "macos-say", "seed": 0, "seconds": 2.66, "heard": "Our ETA is approximately 10 minutes."}
+{"no": 31, "condition": "zonos3-norm-on", "seed": 1, "seconds": 3.47, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.47, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.6, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.6, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.73, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.73, "heard": "Send the PDF to the HR team ASAP."}
+{"no": 31, "condition": "macos-say", "seed": 0, "seconds": 3.18, "heard": "Send the PDF to the HR Team ASAP."}
+{"no": 32, "condition": "zonos3-norm-on", "seed": 1, "seconds": 5.73, "heard": "The city has 8,945,000 residents."}
+{"no": 32, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.47, "heard": "The city has 8,900."}
+{"no": 32, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.53, "heard": "The city has 8,945,000 residents."}
+{"no": 32, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.6, "heard": "The city has 8,950."}
+{"no": 32, "condition": "zonos3-norm-on", "seed": 3, "seconds": 5.27, "heard": "The city has 8,945,000 residents."}
+{"no": 32, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.07, "heard": "The city has 8,900."}
+{"no": 32, "condition": "macos-say", "seed": 0, "seconds": 3.98, "heard": "The city has 8,945,000 residents."}
+{"no": 33, "condition": "zonos3-norm-on", "seed": 1, "seconds": 4.87, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 33, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.6, "heard": "Revenue hit 2.7 BN in 2020."}
+{"no": 33, "condition": "zonos3-norm-on", "seed": 2, "seconds": 4.93, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 33, "condition": "zonos3-norm-off", "seed": 2, "seconds": 2.93, "heard": "Revenue hit 2.7 BN."}
+{"no": 33, "condition": "zonos3-norm-on", "seed": 3, "seconds": 5.8, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 33, "condition": "zonos3-norm-off", "seed": 3, "seconds": 5.53, "heard": "Revenue hit 2.7bn in 2026."}
+{"no": 33, "condition": "macos-say", "seed": 0, "seconds": 4.25, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 34, "condition": "zonos3-norm-on", "seed": 1, "seconds": 5.6, "heard": "Population grew by 1,200 to 15,750."}
+{"no": 34, "condition": "zonos3-norm-off", "seed": 1, "seconds": 5.73, "heard": "population grew by 1200 to 15,750"}
+{"no": 34, "condition": "zonos3-norm-on", "seed": 2, "seconds": 5.53, "heard": "Population grew by 1,200 to 15,750."}
+{"no": 34, "condition": "zonos3-norm-off", "seed": 2, "seconds": 6.4, "heard": "Population grew by 1,200 to 15,750."}
+{"no": 34, "condition": "zonos3-norm-on", "seed": 3, "seconds": 6.47, "heard": "population grew by 1200 to 15,750"}
+{"no": 34, "condition": "zonos3-norm-off", "seed": 3, "seconds": 5.67, "heard": "population grew by 1200 to 5750"}
+{"no": 34, "condition": "macos-say", "seed": 0, "seconds": 4.98, "heard": "population grew by 1,200 to 15,750."}
+{"no": 35, "condition": "zonos3-norm-on", "seed": 1, "seconds": 2.93, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "zonos3-norm-off", "seed": 1, "seconds": 3.07, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "zonos3-norm-on", "seed": 2, "seconds": 3.47, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "zonos3-norm-off", "seed": 2, "seconds": 3.0, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "zonos3-norm-on", "seed": 3, "seconds": 3.33, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "zonos3-norm-off", "seed": 3, "seconds": 3.4, "heard": "The year 1066 changed England."}
+{"no": 35, "condition": "macos-say", "seed": 0, "seconds": 2.71, "heard": "The year 1066 changed England."}
