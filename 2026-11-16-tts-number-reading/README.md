@@ -87,6 +87,16 @@ Per-category counts, early stops and every failed transcript are in `results/sum
 - This doesn't rate ZONOS3-Mini's voice quality, naturalness or cloning, and it doesn't compare it with other
   open TTS models. A higher pass rate for `say` on 36 items is not "better"; it is a different, rule-based engine.
 
+## Follow-up (17 Nov)
+
+zyphra-textnorm 0.3.1 (released after this run) adds a pre-pass that is now on by default. Its text output for 4 of
+the 5 failing sentences is fixed: "Tue 9 Feb" → "Tuesday the ninth of february", "approx." → "approximately", and
+both ranges now have a "to". "2h 15m" still becomes "two H fifteen M"; we reported it as
+[zyphra-textnorm #1](https://github.com/Zyphra/zyphra-textnorm/issues/1). Codes are still read as amounts
+("four thousand four hundred and seventeen") and "18:00" as "eighteen o'clock". We checked the normaliser's text
+only; the audio was not re-run. The next night we ran a 4.5M-parameter model through the same items:
+[2026-11-17-tts-tiny-voca](../2026-11-17-tts-tiny-voca/).
+
 ## What didn't work / limits
 
 - **The listener is a model.** Whisper has a strong language prior and can "repair" audio a person would mishear,

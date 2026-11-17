@@ -1,0 +1,15 @@
+{
+ "machine": "arm64",
+ "cpu": "arm",
+ "threads": 4,
+ "F2": {
+  "audio_s": 108.5,
+  "compute_s": 2.4,
+  "x_real_time": 45.2
+ },
+ "M2": {
+  "audio_s": 99.0,
+  "compute_s": 2.33,
+  "x_real_time": 42.4
+ }
+}

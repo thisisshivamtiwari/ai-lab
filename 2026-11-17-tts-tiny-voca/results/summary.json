@@ -1,0 +1,259 @@
+{
+ "setup": "36 items; tiny-voca once per voice (deterministic, n=36 each) on CPU with its dizione front end; ZONOS3-Mini 3 seeds (n=108) and macOS say once (n=36) from the 16 Nov run; all transcribed with mlx-community/whisper-large-v3-turbo, temperature 0",
+ "overall": {
+  "tiny-voca-F2": {
+   "passed": 34,
+   "n": 36
+  },
+  "tiny-voca-M2": {
+   "passed": 34,
+   "n": 36
+  },
+  "zonos3-norm-on": {
+   "passed": 93,
+   "n": 108
+  },
+  "zonos3-norm-off": {
+   "passed": 59,
+   "n": 108
+  },
+  "macos-say": {
+   "passed": 33,
+   "n": 36
+  }
+ },
+ "by_category": {
+  "tiny-voca-F2": {
+   "currency": {
+    "passed": 4,
+    "n": 4
+   },
+   "dates": {
+    "passed": 3,
+    "n": 4
+   },
+   "times": {
+    "passed": 3,
+    "n": 4
+   },
+   "decimals": {
+    "passed": 4,
+    "n": 4
+   },
+   "codes": {
+    "passed": 4,
+    "n": 4
+   },
+   "units": {
+    "passed": 4,
+    "n": 4
+   },
+   "ordinals": {
+    "passed": 4,
+    "n": 4
+   },
+   "abbreviations": {
+    "passed": 4,
+    "n": 4
+   },
+   "large numbers": {
+    "passed": 4,
+    "n": 4
+   }
+  },
+  "tiny-voca-M2": {
+   "currency": {
+    "passed": 4,
+    "n": 4
+   },
+   "dates": {
+    "passed": 3,
+    "n": 4
+   },
+   "times": {
+    "passed": 3,
+    "n": 4
+   },
+   "decimals": {
+    "passed": 4,
+    "n": 4
+   },
+   "codes": {
+    "passed": 4,
+    "n": 4
+   },
+   "units": {
+    "passed": 4,
+    "n": 4
+   },
+   "ordinals": {
+    "passed": 4,
+    "n": 4
+   },
+   "abbreviations": {
+    "passed": 4,
+    "n": 4
+   },
+   "large numbers": {
+    "passed": 4,
+    "n": 4
+   }
+  },
+  "zonos3-norm-on": {
+   "currency": {
+    "passed": 12,
+    "n": 12
+   },
+   "dates": {
+    "passed": 9,
+    "n": 12
+   },
+   "times": {
+    "passed": 9,
+    "n": 12
+   },
+   "decimals": {
+    "passed": 12,
+    "n": 12
+   },
+   "codes": {
+    "passed": 12,
+    "n": 12
+   },
+   "units": {
+    "passed": 12,
+    "n": 12
+   },
+   "ordinals": {
+    "passed": 6,
+    "n": 12
+   },
+   "abbreviations": {
+    "passed": 9,
+    "n": 12
+   },
+   "large numbers": {
+    "passed": 12,
+    "n": 12
+   }
+  },
+  "zonos3-norm-off": {
+   "currency": {
+    "passed": 3,
+    "n": 12
+   },
+   "dates": {
+    "passed": 3,
+    "n": 12
+   },
+   "times": {
+    "passed": 5,
+    "n": 12
+   },
+   "decimals": {
+    "passed": 7,
+    "n": 12
+   },
+   "codes": {
+    "passed": 9,
+    "n": 12
+   },
+   "units": {
+    "passed": 9,
+    "n": 12
+   },
+   "ordinals": {
+    "passed": 9,
+    "n": 12
+   },
+   "abbreviations": {
+    "passed": 9,
+    "n": 12
+   },
+   "large numbers": {
+    "passed": 5,
+    "n": 12
+   }
+  },
+  "macos-say": {
+   "currency": {
+    "passed": 4,
+    "n": 4
+   },
+   "dates": {
+    "passed": 4,
+    "n": 4
+   },
+   "times": {
+    "passed": 3,
+    "n": 4
+   },
+   "decimals": {
+    "passed": 4,
+    "n": 4
+   },
+   "codes": {
+    "passed": 4,
+    "n": 4
+   },
+   "units": {
+    "passed": 4,
+    "n": 4
+   },
+   "ordinals": {
+    "passed": 2,
+    "n": 4
+   },
+   "abbreviations": {
+    "passed": 4,
+    "n": 4
+   },
+   "large numbers": {
+    "passed": 4,
+    "n": 4
+   }
+  }
+ },
+ "failures": [
+  {
+   "no": 6,
+   "condition": "tiny-voca-F2",
+   "seed": 0,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to 2 the 9th of February.",
+   "missed": [
+    "Tuesday"
+   ]
+  },
+  {
+   "no": 6,
+   "condition": "tiny-voca-M2",
+   "seed": 0,
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to 2 the 9th of February.",
+   "missed": [
+    "Tuesday"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "tiny-voca-F2",
+   "seed": 0,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took 2 hours 15 meters.",
+   "missed": [
+    "fifteen minutes"
+   ]
+  },
+  {
+   "no": 11,
+   "condition": "tiny-voca-M2",
+   "seed": 0,
+   "text": "The run took 2h 15m.",
+   "heard": "The run took 2 hours 15 meters.",
+   "missed": [
+    "fifteen minutes"
+   ]
+  }
+ ]
+}

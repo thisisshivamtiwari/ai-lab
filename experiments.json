@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-17-tts-tiny-voca",
+  "date": "2026-11-17",
+  "slug": "tts-tiny-voca",
+  "launch": {
+   "name": "n4ze3m tiny-voca (4.5M-parameter open TTS)",
+   "official": "https://huggingface.co/n4ze3m/tiny-voca",
+   "second": "https://digg.com/ai/z4bnw15r"
+  },
+  "skills": [
+   "speech AI / voice agents (TTS)",
+   "LLM evaluation",
+   "on-device / small open models",
+   "text normalisation"
+  ],
+  "media": "2026-11-17-tts-tiny-voca/media/overall.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "tiny-voca db851f7 + dizione 8cd889e, HF rev d94d2a0, CPU 4 threads, F2 + M2 once each (deterministic); same items, Whisper and scoring as 2026-11-16; weights deleted after the run"
+ },
+ {
   "id": "2026-11-16-tts-number-reading",
   "date": "2026-11-16",
   "slug": "tts-number-reading",

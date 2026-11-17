@@ -1,0 +1,9 @@
+{
+ "frontend": "own",
+ "item0_identical_twice": true,
+ "voices": [
+  "F2",
+  "M2"
+ ],
+ "whisper": "mlx-community/whisper-large-v3-turbo"
+}

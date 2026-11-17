@@ -1,0 +1,72 @@
+{"no": 0, "condition": "tiny-voca-F2", "seed": 0, "seconds": 5.1, "heard": "The invoice total is \u00a31,249.50 including VAT."}
+{"no": 0, "condition": "tiny-voca-M2", "seed": 0, "seconds": 4.73, "heard": "The invoice total is \u00a31,249.50 including VAT."}
+{"no": 1, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.25, "heard": "Tickets start at $18.99 each."}
+{"no": 1, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.01, "heard": "Tickets start at $18.99 each."}
+{"no": 2, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.94, "heard": "We paid 3.2 million euros for the site."}
+{"no": 2, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.67, "heard": "We paid 3.2 million euros for the site."}
+{"no": 3, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.13, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 3, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.77, "heard": "The fee rose from \u00a345 to \u00a360."}
+{"no": 4, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.27, "heard": "Check-in is on February 14, 2027."}
+{"no": 4, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.83, "heard": "Check-in is on February 14, 2027."}
+{"no": 5, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.09, "heard": "The deadline is 3 March 2027."}
+{"no": 5, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.77, "heard": "The deadline is 3 March 2027."}
+{"no": 6, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.68, "heard": "The meeting moved to 2 the 9th of February."}
+{"no": 6, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.31, "heard": "The meeting moved to 2 the 9th of February."}
+{"no": 7, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.79, "heard": "Founded in 1998, rebuilt in 2004."}
+{"no": 7, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.43, "heard": "Founded in 1998, rebuilt in 2004."}
+{"no": 8, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.35, "heard": "Your train leaves at 7.45."}
+{"no": 8, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.13, "heard": "Your train leaves at 7.45."}
+{"no": 9, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.01, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 9, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.75, "heard": "The shop is open 9am to 5.30pm."}
+{"no": 10, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.42, "heard": "Call back at 1800 UK time."}
+{"no": 10, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.22, "heard": "Call back at 1800 UK time."}
+{"no": 11, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.43, "heard": "The run took 2 hours 15 meters."}
+{"no": 11, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.21, "heard": "The run took 2 hours 15 meters."}
+{"no": 12, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.2, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 12, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.94, "heard": "Occupancy rose 12.5% this quarter."}
+{"no": 13, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.21, "heard": "The error rate fell to 0.03%."}
+{"no": 13, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.97, "heard": "the error rate fell to 0.03 percent"}
+{"no": 14, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.99, "heard": "Pi is about 3.14159."}
+{"no": 14, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.65, "heard": "Pi is about 3.14159."}
+{"no": 15, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.08, "heard": "Use a ratio of 3 to 1."}
+{"no": 15, "condition": "tiny-voca-M2", "seed": 0, "seconds": 1.85, "heard": "Use a ratio of 3 to 1."}
+{"no": 16, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.36, "heard": "Your booking reference is QX7-42B."}
+{"no": 16, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.84, "heard": "Your booking reference is QX742B."}
+{"no": 17, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.75, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 17, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.29, "heard": "Flight BA2490 departs from gate 23."}
+{"no": 18, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.54, "heard": "Enter code 4417 when asked."}
+{"no": 18, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.35, "heard": "Enter code 4417 when asked."}
+{"no": 19, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.9, "heard": "The postcode is SW1A1AA."}
+{"no": 19, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.78, "heard": "The postcode is SW1A1AA."}
+{"no": 20, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.69, "heard": "The site is 5 kilometers from the airport."}
+{"no": 20, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.41, "heard": "The site is 5 kilometers from the airport."}
+{"no": 21, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.86, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 21, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.78, "heard": "Set the oven to 180 degrees Celsius."}
+{"no": 22, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.28, "heard": "The file is 2.4 gigabytes."}
+{"no": 22, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.07, "heard": "The file is 2.4 gigabytes."}
+{"no": 23, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.51, "heard": "Add 250 ml of milk."}
+{"no": 23, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.43, "heard": "Add 250 ml of milk."}
+{"no": 24, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.58, "heard": "She finished 21st out of 300."}
+{"no": 24, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.35, "heard": "She finished 21st out of 300."}
+{"no": 25, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.25, "heard": "Read chapters 3 to 7 first."}
+{"no": 25, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.12, "heard": "Read chapters 3 to 7 first."}
+{"no": 26, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.49, "heard": "Rooms 101 to 110 are on the first floor."}
+{"no": 26, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.23, "heard": "Rooms 101 to 110 are on the first floor."}
+{"no": 27, "condition": "tiny-voca-F2", "seed": 0, "seconds": 1.69, "heard": "It's the second time this week."}
+{"no": 27, "condition": "tiny-voca-M2", "seed": 0, "seconds": 1.61, "heard": "It's the second time this week."}
+{"no": 28, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.65, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 28, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.52, "heard": "Dr. Smith works at St. James Hospital."}
+{"no": 29, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.05, "heard": "The API returns JSON over HTTPS."}
+{"no": 29, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.7, "heard": "The API returns JSON over HTTPS."}
+{"no": 30, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.97, "heard": "Our ETA is approximately 10 minutes."}
+{"no": 30, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.71, "heard": "Our ETA is approximately 10 minutes."}
+{"no": 31, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.84, "heard": "Send the PDF to the HR Team ASAP."}
+{"no": 31, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.6, "heard": "Send the PDF to the HR Team ASAP."}
+{"no": 32, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.81, "heard": "The city has 8,945,000 residents."}
+{"no": 32, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.43, "heard": "The city has 8,945,000 residents."}
+{"no": 33, "condition": "tiny-voca-F2", "seed": 0, "seconds": 3.72, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 33, "condition": "tiny-voca-M2", "seed": 0, "seconds": 3.52, "heard": "Revenue hit $2.7 billion in 2026."}
+{"no": 34, "condition": "tiny-voca-F2", "seed": 0, "seconds": 4.66, "heard": "population grew by 1,200 to 15,750."}
+{"no": 34, "condition": "tiny-voca-M2", "seed": 0, "seconds": 4.42, "heard": "Population grew by 1,200 to 15,750."}
+{"no": 35, "condition": "tiny-voca-F2", "seed": 0, "seconds": 2.93, "heard": "The year 1066 changed England"}
+{"no": 35, "condition": "tiny-voca-M2", "seed": 0, "seconds": 2.58, "heard": "The year 1066 changed England."}
