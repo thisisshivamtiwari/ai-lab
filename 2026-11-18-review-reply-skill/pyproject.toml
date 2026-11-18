@@ -1,0 +1,8 @@
+[project]
+name = "review-reply-skill"
+version = "0.1.0"
+description = "Does a new marketing skill for coding agents make hotel review replies more honest? Invented fixes, leaked booking notes and compensation offers, with and without the skill."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib==3.10.7",
+]

@@ -1,0 +1,42 @@
+{
+ "sonnet-5.5 plain": {
+  "n": 24,
+  "leaked": 5,
+  "leak_n": 22,
+  "invented": 1,
+  "offer": 0,
+  "not_paste_ready": 10,
+  "same_opener": 0,
+  "median_words": 95.0
+ },
+ "sonnet-5.5 skill": {
+  "n": 24,
+  "leaked": 3,
+  "leak_n": 22,
+  "invented": 1,
+  "offer": 0,
+  "not_paste_ready": 5,
+  "same_opener": 0,
+  "median_words": 83.5
+ },
+ "haiku-4.5 plain": {
+  "n": 24,
+  "leaked": 6,
+  "leak_n": 22,
+  "invented": 4,
+  "offer": 0,
+  "not_paste_ready": 1,
+  "same_opener": 12,
+  "median_words": 91.0
+ },
+ "haiku-4.5 skill": {
+  "n": 24,
+  "leaked": 1,
+  "leak_n": 22,
+  "invented": 5,
+  "offer": 0,
+  "not_paste_ready": 0,
+  "same_opener": 0,
+  "median_words": 41.0
+ }
+}

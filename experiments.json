@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-18-review-reply-skill",
+  "date": "2026-11-18",
+  "slug": "review-reply-skill",
+  "launch": {
+   "name": "boringmarketer/boring-marketing-skills (32 MIT marketing skills for coding agents; tested `reviews`)",
+   "official": "https://github.com/boringmarketer/boring-marketing-skills",
+   "second": "https://www.bitdoze.com/news/2026-11-18/"
+  },
+  "skills": [
+   "LLM evaluation",
+   "AI agents / skills (Claude Code)",
+   "privacy / PII leakage",
+   "marketing content AI (review responses)"
+  ],
+  "media": "2026-11-18-review-reply-skill/media/honesty.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "skill pinned at bd5aaed (v4.1.1); Sonnet 5.5 + Haiku 4.5 via claude -p, tools off; 12 synthetic reviews x 2 conditions x 2 runs = 96 replies; hand audit is primary (judge agreed 7/10 on invented); account-level CLI instructions apply to both conditions"
+ },
+ {
   "id": "2026-11-17-tts-tiny-voca",
   "date": "2026-11-17",
   "slug": "tts-tiny-voca",
