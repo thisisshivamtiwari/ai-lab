@@ -1,0 +1,1060 @@
+{
+ "setup": "36 sentences x 3 macOS say voices (Daniel en_GB, Samantha en_US, Karen en_AU) = 108 clips, each clean and with white noise at 5 dB SNR; Rumble-2-Flash via transformers 5.23.0 on MPS fp16, greedy; Whisper via mlx-whisper 0.4.3, temperature 0; one MacBook (Apple silicon), one run each",
+ "meaning": {
+  "rumble-digits-on": {
+   "clean": {
+    "passed": 97,
+    "n": 108
+   },
+   "noisy": {
+    "passed": 92,
+    "n": 108
+   }
+  },
+  "whisper-turbo": {
+   "clean": {
+    "passed": 99,
+    "n": 108
+   },
+   "noisy": {
+    "passed": 89,
+    "n": 108
+   }
+  },
+  "rumble-digits-off": {
+   "clean": {
+    "passed": 87,
+    "n": 108
+   },
+   "noisy": {
+    "passed": 82,
+    "n": 108
+   }
+  }
+ },
+ "written": {
+  "rumble-digits-on": {
+   "clean": {
+    "passed": 96,
+    "n": 108
+   },
+   "noisy": {
+    "passed": 93,
+    "n": 108
+   }
+  },
+  "whisper-turbo": {
+   "clean": {
+    "passed": 102,
+    "n": 108
+   },
+   "noisy": {
+    "passed": 88,
+    "n": 108
+   }
+  }
+ },
+ "written_without_unspoken": {
+  "rumble-digits-on": {
+   "clean": {
+    "passed": 96,
+    "n": 102
+   },
+   "noisy": {
+    "passed": 93,
+    "n": 102
+   }
+  },
+  "whisper-turbo": {
+   "clean": {
+    "passed": 100,
+    "n": 102
+   },
+   "noisy": {
+    "passed": 88,
+    "n": 102
+   }
+  }
+ },
+ "seconds_per_clip": {
+  "rumble-digits-on": 0.23,
+  "whisper-turbo": 1.2,
+  "rumble-digits-off": 0.21
+ },
+ "written_failures": [
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took to 15 meters.",
+   "missed_written": [
+    "2h"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3, 7 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is 1,249.50 British pounds, including that.",
+   "missed_written": [
+    "£1,249.50",
+    "VAT"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 British pounds to 60 British pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two hours 15 minutes.",
+   "missed_written": [
+    "2h"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking references QX7 negative 42B.",
+   "missed_written": [
+    "QX7-42B"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3, 7 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took to age 15 meters.",
+   "missed_written": [
+    "2h"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3, 7 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3.1",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 3 7 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 British pounds to 60 British pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 pounds to 60 pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "heard": "The runt of two h15 meters.",
+   "missed_written": [
+    "2h"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "User ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapter 37 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is 1,249.50 British pounds, including VAT.",
+   "missed_written": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 British pounds to 60 British pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday at the area 9.",
+   "missed_written": [
+    "9th of February"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back of 1800 hours you pay time.",
+   "missed_written": [
+    "UK"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is QX7 negative 42B.",
+   "missed_written": [
+    "QX7-42B"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Flight VH 2490 departs from gate 23.",
+   "missed_written": [
+    "BA2490"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapter 37 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Like the 80,490, departs from date 23.",
+   "missed_written": [
+    "BA2490",
+    "gate 23"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters 37 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "rumble-digits-on",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The API returns JSON over HTTPS.",
+   "heard": "The APR returns JSL in over HTTPS.",
+   "missed_written": [
+    "API",
+    "JSON"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two age 15 meters.",
+   "missed_written": [
+    "2h"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3.1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapter 37 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Our ETA is approx. 10 min.",
+   "heard": "Our EPA is approximately 10 minutes.",
+   "missed_written": [
+    "ETA"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is 1,249.50 British pounds including that.",
+   "missed_written": [
+    "£1,249.50",
+    "VAT"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "the fee rose from 45 British pounds to 60 British pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back at 1800 hours you take time.",
+   "missed_written": [
+    "UK"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is QF7-42B.",
+   "missed_written": [
+    "QX7-42B"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Flight VA 2490 departs from gate 23",
+   "missed_written": [
+    "BA2490"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapter 37 first.",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from 45 pounds to 60 pounds.",
+   "missed_written": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The run took 2h 15m.",
+   "heard": "around 2h50 meters",
+   "missed_written": [
+    "15m"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of 3, 1.",
+   "missed_written": [
+    "3 to 1"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is PX7-42B",
+   "missed_written": [
+    "QX7-42B"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Like the 80,490 departs from day 23",
+   "missed_written": [
+    "BA2490",
+    "gate 23"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The postcode is SW1A 1AA.",
+   "heard": "The postcode is FW1A1AA",
+   "missed_written": [
+    "SW1A 1AA"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read Chapters 3 7 First",
+   "missed_written": [
+    "3-7"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The API returns JSON over HTTPS.",
+   "heard": "The APR returns JSON over HTTPS.",
+   "missed_written": [
+    "API"
+   ]
+  },
+  {
+   "condition": "whisper-turbo",
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The city has 8,945,000 residents.",
+   "heard": "The city has 8 million 945 thousand residents.",
+   "missed_written": [
+    "8,945,000"
+   ]
+  }
+ ],
+ "meaning_failures_digits_off": [
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence, including VAT.",
+   "missed_meaning": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday the ninth of February.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took to age fifteen meters.",
+   "missed_meaning": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of three, one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking references QX seven dash forty two B.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Daniel",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is one thousand two hundred forty nine point five zero British pounds, including that.",
+   "missed_meaning": [
+    "£1,249.50",
+    "VAT"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from forty-five British pounds to sixty British pounds.",
+   "missed_meaning": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday, February ninth.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of three, one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking references QX seven negative forty two B.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Samantha",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms one hundred one dash one hundred ten are on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence, including VAT.",
+   "missed_meaning": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday, the ninth of February.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two age fifteen meters.",
+   "missed_meaning": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of three, one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is QX seven dash forty two B.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "clean",
+   "voice": "Karen",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence including VAT.",
+   "missed_meaning": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday, the ninth of February.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "heard": "The runt of two h fifteen meters.",
+   "missed_meaning": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Use a ratio of 3:1.",
+   "heard": "User ratio of three: one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your book in references QX seven dash forty two B.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Daniel",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The invoice total is one thousand two hundred forty nine point five zero British pounds, including VAT.",
+   "missed_meaning": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The fee rose from £45 to £60.",
+   "heard": "The fee rose from forty-five British pounds to sixty British pounds.",
+   "missed_meaning": [
+    "£45",
+    "£60"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday at the area nine.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Call back at 18:00 UK time.",
+   "heard": "Call back of eighteen hundred hours you pay time.",
+   "missed_meaning": [
+    "UK"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of three, one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is QS seven negative forty two V.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Flight VH two thousand four hundred ninety departs from gate twenty three.",
+   "missed_meaning": [
+    "BA2490"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Add 250 ml of milk.",
+   "heard": "Add to hundred fifty milliliters of milk.",
+   "missed_meaning": [
+    "250 ml"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapter three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Samantha",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Blooms one hundred one dash one hundred ten are on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "heard": "The evil's total is one thousand two hundred and forty nine pounds and fifty pence including VAT.",
+   "missed_meaning": [
+    "£1,249.50"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The meeting moved to Tue 9 Feb.",
+   "heard": "The meeting moved to Tuesday, the ninth of February.",
+   "missed_meaning": [
+    "9th of February"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The run took 2h 15m.",
+   "heard": "The run took two h fifteen meters.",
+   "missed_meaning": [
+    "two hours",
+    "fifteen minutes"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "heard": "Use a ratio of three, one.",
+   "missed_meaning": [
+    "3 to 1"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Your booking reference is QX7-42B.",
+   "heard": "Your booking reference is QX seven dash forty two B.",
+   "missed_meaning": [
+    "QX742B"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Flight BA2490 departs from gate 23.",
+   "heard": "Like the eighty thousand four hundred and ninety, departs from date twenty three.",
+   "missed_meaning": [
+    "BA2490",
+    "gate 23"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "heard": "Read chapters three seven first.",
+   "missed_meaning": [
+    "3 to 7"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "heard": "Lose one hundred and one dash one hundred and ten on the first floor.",
+   "missed_meaning": [
+    "101 to 110"
+   ]
+  },
+  {
+   "audio": "noisy",
+   "voice": "Karen",
+   "text": "The API returns JSON over HTTPS.",
+   "heard": "The APR returns JSON over HTTPS.",
+   "missed_meaning": [
+    "API"
+   ]
+  }
+ ]
+}

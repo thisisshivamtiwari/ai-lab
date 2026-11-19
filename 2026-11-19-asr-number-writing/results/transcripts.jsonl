@@ -1,0 +1,648 @@
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 0, "audio": "clean", "heard": "The invoice total is £1,249.50, including VAT.", "seconds": 0.669}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 0.756}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 0.462}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 3, "audio": "clean", "heard": "The fee rose from £45 to £60.", "seconds": 0.22}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 4, "audio": "clean", "heard": "Checkin is on the 14th of February 2027.", "seconds": 0.348}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 5, "audio": "clean", "heard": "The deadline is the 3rd of March, 2027.", "seconds": 0.248}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, the 9th of February.", "seconds": 0.24}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 7, "audio": "clean", "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 0.263}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 8, "audio": "clean", "heard": "Your train leaves at 7:45.", "seconds": 0.302}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 9, "audio": "clean", "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.261}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 0.211}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 11, "audio": "clean", "heard": "The run took to 15 meters.", "seconds": 0.265}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.311}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 0.196}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 14, "audio": "clean", "heard": "Pi is about 3.14159.", "seconds": 0.22}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 15, "audio": "clean", "heard": "Use a ratio of 3, 1.", "seconds": 0.191}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 16, "audio": "clean", "heard": "Your booking references QX7-42B.", "seconds": 0.215}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 17, "audio": "clean", "heard": "Flight BA 2490 departs from gate 23.", "seconds": 0.322}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 0.198}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 19, "audio": "clean", "heard": "The postcode is SW1A1AA.", "seconds": 0.193}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 0.256}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.196}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 22, "audio": "clean", "heard": "The file is 2.4 GB.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 0.228}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 0.298}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 25, "audio": "clean", "heard": "Read chapters 3, 7 first.", "seconds": 0.405}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 0.29}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.259}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.184}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.178}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.187}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.189}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 0.262}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.28}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 34, "audio": "clean", "heard": "Population grew by 1,200 to 15,750.", "seconds": 0.414}
+{"condition": "rumble-digits-on", "voice": "Daniel", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 0.191}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 0, "audio": "clean", "heard": "The invoice total is 1,249.50 British pounds, including that.", "seconds": 0.305}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 0.204}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 0.211}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 3, "audio": "clean", "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 0.245}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 4, "audio": "clean", "heard": "Check-in is on February 14, 2027.", "seconds": 0.246}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 5, "audio": "clean", "heard": "The deadline is March 3rd, 2027.", "seconds": 0.227}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, February 9th.", "seconds": 0.201}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 7, "audio": "clean", "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 0.268}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 8, "audio": "clean", "heard": "Your train leaves at 7:45.", "seconds": 0.185}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 9, "audio": "clean", "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.265}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 0.214}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 11, "audio": "clean", "heard": "The run took two hours 15 minutes.", "seconds": 0.193}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.22}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 0.206}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 14, "audio": "clean", "heard": "Pi is about 3.14159.", "seconds": 0.211}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 15, "audio": "clean", "heard": "Use a ratio of 3, 1.", "seconds": 0.284}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 16, "audio": "clean", "heard": "Your booking references QX7 negative 42B.", "seconds": 0.215}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 17, "audio": "clean", "heard": "Flight BA 2490 departs from Gate 23.", "seconds": 0.259}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 0.208}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 19, "audio": "clean", "heard": "The postcode is SW1A1AA.", "seconds": 0.188}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 0.192}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.205}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 22, "audio": "clean", "heard": "The file is 2.4 gigabytes.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 0.2}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 0.219}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 25, "audio": "clean", "heard": "Read chapters 3, 7 first.", "seconds": 0.184}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 0.334}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.166}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.185}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 31, "audio": "clean", "heard": "Send a PDF to the HR team ASAP.", "seconds": 0.189}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 0.256}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.247}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 34, "audio": "clean", "heard": "Population grew by 1,200 to 15,750.", "seconds": 0.287}
+{"condition": "rumble-digits-on", "voice": "Samantha", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 0.193}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 0, "audio": "clean", "heard": "The invoice total is £1,249.50, including VAT.", "seconds": 0.297}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 0.217}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 3, "audio": "clean", "heard": "The fee rose from £45 to £60.", "seconds": 0.225}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 4, "audio": "clean", "heard": "Checkin is on the 14th of February 2027.", "seconds": 0.267}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 5, "audio": "clean", "heard": "The deadline is the 3rd of March, 2027.", "seconds": 0.25}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, the 9th of February.", "seconds": 0.224}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 7, "audio": "clean", "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 0.267}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 8, "audio": "clean", "heard": "Your train leaves at 7:45.", "seconds": 0.193}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 9, "audio": "clean", "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.268}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 0.212}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 11, "audio": "clean", "heard": "The run took to age 15 meters.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.214}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 0.206}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 14, "audio": "clean", "heard": "Pi is about 3.14159.", "seconds": 0.21}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 15, "audio": "clean", "heard": "Use a ratio of 3, 1.", "seconds": 0.187}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 16, "audio": "clean", "heard": "Your booking reference is QX7-42B.", "seconds": 0.224}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 17, "audio": "clean", "heard": "Flight BA 2490 departs from gate 23.", "seconds": 0.262}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 0.212}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 19, "audio": "clean", "heard": "The postcode is SW1A1AA.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 0.192}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.213}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 22, "audio": "clean", "heard": "The file is 2.4 gigabytes.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 0.204}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 0.22}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 25, "audio": "clean", "heard": "Read chapters 3, 7 first.", "seconds": 0.18}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 0.255}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.166}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.197}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.187}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.194}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 0.254}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.253}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 34, "audio": "clean", "heard": "Population grew by 1,200 to 15,750.", "seconds": 0.292}
+{"condition": "rumble-digits-on", "voice": "Karen", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 0.2}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 0, "audio": "clean", "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence, including VAT.", "seconds": 0.323}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 1, "audio": "clean", "heard": "Tickets start at eighteen dollars and ninety nine cents each.", "seconds": 0.215}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 2, "audio": "clean", "heard": "We paid three point two million euros for the site.", "seconds": 0.206}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 3, "audio": "clean", "heard": "The fee rose from forty-five pounds to sixty pounds.", "seconds": 0.216}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 4, "audio": "clean", "heard": "Checkin is on the fourteenth of February two thousand and twenty seven.", "seconds": 0.254}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 5, "audio": "clean", "heard": "The deadline is the third of March, twenty twenty seven.", "seconds": 0.228}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday the ninth of February.", "seconds": 0.197}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 7, "audio": "clean", "heard": "Founded in nineteen ninety eight, rebuilt in two thousand and four.", "seconds": 0.235}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 8, "audio": "clean", "heard": "Your train leaves at seven forty-five.", "seconds": 0.176}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 9, "audio": "clean", "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.235}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 10, "audio": "clean", "heard": "Call back at eighteen hundred hours UK time.", "seconds": 0.187}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 11, "audio": "clean", "heard": "The run took to age fifteen meters.", "seconds": 0.175}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 12, "audio": "clean", "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.2}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 13, "audio": "clean", "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.215}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 14, "audio": "clean", "heard": "Pi is about three point one four one five nine.", "seconds": 0.207}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 15, "audio": "clean", "heard": "Use a ratio of three, one.", "seconds": 0.178}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 16, "audio": "clean", "heard": "Your booking references QX seven dash forty two B.", "seconds": 0.223}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 17, "audio": "clean", "heard": "Flight BA two thousand four hundred and ninety departs from gate twenty three.", "seconds": 0.262}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 18, "audio": "clean", "heard": "Enter code four thousand four hundred and seventeen when asked.", "seconds": 0.22}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 19, "audio": "clean", "heard": "The postcode is SW one A one A A.", "seconds": 0.198}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 20, "audio": "clean", "heard": "The site is five kilometers from the airport.", "seconds": 0.189}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 21, "audio": "clean", "heard": "Set the oven to one hundred and eighty degrees Celsius.", "seconds": 0.208}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 22, "audio": "clean", "heard": "The file is two point four GB.", "seconds": 0.173}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 23, "audio": "clean", "heard": "Add two hundred and fifty milliliters of milk.", "seconds": 0.205}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 24, "audio": "clean", "heard": "She finished twenty-first out of three hundred.", "seconds": 0.187}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 25, "audio": "clean", "heard": "Read chapters three seven first.", "seconds": 0.158}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 26, "audio": "clean", "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.", "seconds": 0.263}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.165}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.199}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.184}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 30, "audio": "clean", "heard": "Our ETA is approximately ten minutes.", "seconds": 0.172}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 32, "audio": "clean", "heard": "The city has eight million nine hundred and forty five thousand residents.", "seconds": 0.244}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 33, "audio": "clean", "heard": "Revenue hit two point seven billion dollars in two thousand and twenty six.", "seconds": 0.256}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 34, "audio": "clean", "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred and fifty.", "seconds": 0.267}
+{"condition": "rumble-digits-off", "voice": "Daniel", "no": 35, "audio": "clean", "heard": "The year ten sixty six changed England.", "seconds": 0.181}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 0, "audio": "clean", "heard": "The invoice total is one thousand two hundred forty nine point five zero British pounds, including that.", "seconds": 0.307}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 1, "audio": "clean", "heard": "Tickets start at eighteen dollars and ninety nine cents each.", "seconds": 0.219}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 2, "audio": "clean", "heard": "We paid three point two million euros for the site.", "seconds": 0.209}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 3, "audio": "clean", "heard": "The fee rose from forty-five British pounds to sixty British pounds.", "seconds": 0.242}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 4, "audio": "clean", "heard": "Check-in is on February fourteenth, two thousand twenty-seven.", "seconds": 0.239}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 5, "audio": "clean", "heard": "The deadline is March third, twenty twenty seven.", "seconds": 0.193}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, February ninth.", "seconds": 0.185}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 7, "audio": "clean", "heard": "Founded in nineteen ninety eight, rebuilt in two thousand four.", "seconds": 0.228}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 8, "audio": "clean", "heard": "Your train leaves at seven forty-five.", "seconds": 0.18}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 9, "audio": "clean", "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.23}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 10, "audio": "clean", "heard": "Call back at eighteen hundred hours UK time.", "seconds": 0.191}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 11, "audio": "clean", "heard": "The run took two hours fifteen minutes.", "seconds": 0.178}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 12, "audio": "clean", "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.203}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 13, "audio": "clean", "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.213}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 14, "audio": "clean", "heard": "Pi is about three point one four one five nine.", "seconds": 0.209}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 15, "audio": "clean", "heard": "Use a ratio of three, one.", "seconds": 0.176}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 16, "audio": "clean", "heard": "Your booking references QX seven negative forty two B.", "seconds": 0.221}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 17, "audio": "clean", "heard": "Flight BA two thousand four hundred ninety departs from gate twenty three.", "seconds": 0.254}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 18, "audio": "clean", "heard": "Enter code four thousand four hundred seventeen when asked.", "seconds": 0.208}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 19, "audio": "clean", "heard": "The postcode is SW one A one A A.", "seconds": 0.194}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 20, "audio": "clean", "heard": "The site is five kilometers from the airport.", "seconds": 0.189}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 21, "audio": "clean", "heard": "Set the oven to one hundred eighty degrees Celsius.", "seconds": 0.191}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 22, "audio": "clean", "heard": "The file is two point four gigabytes.", "seconds": 0.187}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 23, "audio": "clean", "heard": "Add two hundred fifty milliliters of milk.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 24, "audio": "clean", "heard": "She finished twenty-first out of three hundred.", "seconds": 0.188}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 25, "audio": "clean", "heard": "Read chapters three seven first.", "seconds": 0.154}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 26, "audio": "clean", "heard": "Rooms one hundred one dash one hundred ten are on the first floor.", "seconds": 0.249}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.164}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.199}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 30, "audio": "clean", "heard": "Our ETA is approximately ten minutes.", "seconds": 0.174}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 31, "audio": "clean", "heard": "Send a PDF to the HR team ASAP.", "seconds": 0.187}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 32, "audio": "clean", "heard": "The city has eight million nine hundred forty five thousand residents.", "seconds": 0.232}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 33, "audio": "clean", "heard": "Revenue hit two point seven billion dollars in two thousand twenty six.", "seconds": 0.236}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 34, "audio": "clean", "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred fifty.", "seconds": 0.257}
+{"condition": "rumble-digits-off", "voice": "Samantha", "no": 35, "audio": "clean", "heard": "The year one thousand sixty six changed England.", "seconds": 0.184}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 0, "audio": "clean", "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence, including VAT.", "seconds": 0.325}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 1, "audio": "clean", "heard": "Tickets start at eighteen dollars and ninety nine cents each.", "seconds": 0.217}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 2, "audio": "clean", "heard": "We paid three point two million euros for the site.", "seconds": 0.21}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 3, "audio": "clean", "heard": "The fee rose from forty-five pounds to sixty pounds.", "seconds": 0.215}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 4, "audio": "clean", "heard": "Checkin is on the fourteenth of February two thousand and twenty seven.", "seconds": 0.258}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 5, "audio": "clean", "heard": "The deadline is the third of March, twenty twenty seven.", "seconds": 0.221}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, the ninth of February.", "seconds": 0.205}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 7, "audio": "clean", "heard": "Founded in nineteen ninety eight, rebuilt in two thousand and four.", "seconds": 0.234}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 8, "audio": "clean", "heard": "Your train leaves at seven forty-five.", "seconds": 0.171}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 9, "audio": "clean", "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.23}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 10, "audio": "clean", "heard": "Call back at eighteen hundred hours UK time.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 11, "audio": "clean", "heard": "The run took two age fifteen meters.", "seconds": 0.172}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 12, "audio": "clean", "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.204}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 13, "audio": "clean", "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.211}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 14, "audio": "clean", "heard": "Pi is about three point one four one five nine.", "seconds": 0.203}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 15, "audio": "clean", "heard": "Use a ratio of three, one.", "seconds": 0.179}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 16, "audio": "clean", "heard": "Your booking reference is QX seven dash forty two B.", "seconds": 0.232}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 17, "audio": "clean", "heard": "Flight BA two thousand four hundred and ninety departs from gate twenty three.", "seconds": 0.262}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 18, "audio": "clean", "heard": "Enter code four thousand four hundred and seventeen when asked.", "seconds": 0.216}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 19, "audio": "clean", "heard": "The postcode is SW one A one A A.", "seconds": 0.196}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 20, "audio": "clean", "heard": "The site is five kilometers from the airport.", "seconds": 0.187}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 21, "audio": "clean", "heard": "Set the oven to one hundred and eighty degrees Celsius.", "seconds": 0.21}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 22, "audio": "clean", "heard": "The file is two point four gigabytes.", "seconds": 0.188}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 23, "audio": "clean", "heard": "Add two hundred and fifty milliliters of milk.", "seconds": 0.207}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 24, "audio": "clean", "heard": "She finished twenty-first out of three hundred.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 25, "audio": "clean", "heard": "Read chapters three seven first.", "seconds": 0.163}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 26, "audio": "clean", "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.", "seconds": 0.266}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 0.167}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.199}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 0.184}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 30, "audio": "clean", "heard": "Our ETA is approximately ten minutes.", "seconds": 0.168}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 32, "audio": "clean", "heard": "The city has eight million nine hundred and forty five thousand residents.", "seconds": 0.235}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 33, "audio": "clean", "heard": "Revenue hit two point seven billion dollars in two thousand and twenty six.", "seconds": 0.257}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 34, "audio": "clean", "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred and fifty.", "seconds": 0.26}
+{"condition": "rumble-digits-off", "voice": "Karen", "no": 35, "audio": "clean", "heard": "The year one thousand and sixty six changed England.", "seconds": 0.195}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 0, "audio": "clean", "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 4.292}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 1.177}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 1.174}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 3, "audio": "clean", "heard": "The fee rose from £45 to £60.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 4, "audio": "clean", "heard": "Check-in is on the 14th of February 2027.", "seconds": 1.196}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 5, "audio": "clean", "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.177}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.166}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 7, "audio": "clean", "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.174}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 8, "audio": "clean", "heard": "Your train leaves at 7.45.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 9, "audio": "clean", "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.179}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 11, "audio": "clean", "heard": "The run took 2h15 meters.", "seconds": 1.155}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.173}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 1.161}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 14, "audio": "clean", "heard": "Pi is about 3.14159.", "seconds": 1.179}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 15, "audio": "clean", "heard": "Use a ratio of 3.1", "seconds": 1.154}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 16, "audio": "clean", "heard": "Your booking reference is QX7-42B.", "seconds": 1.173}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 17, "audio": "clean", "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.172}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 1.153}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 19, "audio": "clean", "heard": "The postcode is SW1A. 1AA.", "seconds": 1.2}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.163}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 22, "audio": "clean", "heard": "The file is 2.4 GB.", "seconds": 1.158}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 1.176}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 1.158}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 25, "audio": "clean", "heard": "Read chapters 3 7 first.", "seconds": 1.15}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.174}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 1.157}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.181}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 1.166}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.159}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 1.17}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.195}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 34, "audio": "clean", "heard": "population grew by 1,200 to 15,750.", "seconds": 1.174}
+{"condition": "whisper-turbo", "voice": "Daniel", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 1.151}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 0, "audio": "clean", "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.194}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 1.17}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 1.177}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 3, "audio": "clean", "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.187}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 4, "audio": "clean", "heard": "Check-in is on February 14, 2027.", "seconds": 1.176}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 5, "audio": "clean", "heard": "The deadline is March 3, 2027.", "seconds": 1.164}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.164}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 7, "audio": "clean", "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 8, "audio": "clean", "heard": "Your train leaves at 7.45.", "seconds": 1.156}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 9, "audio": "clean", "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.183}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 11, "audio": "clean", "heard": "The run took 2 hours 15 minutes.", "seconds": 1.157}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.172}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 1.163}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 14, "audio": "clean", "heard": "High is about 3.14159.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 15, "audio": "clean", "heard": "Use a ratio of 3, 1.", "seconds": 1.174}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 16, "audio": "clean", "heard": "Your booking reference is QX7-42B.", "seconds": 1.173}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 17, "audio": "clean", "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.17}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 1.152}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 19, "audio": "clean", "heard": "The postcode is SW1A1AA.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.165}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 22, "audio": "clean", "heard": "The file is 2.4 gigabytes", "seconds": 1.155}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 1.157}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 1.156}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 25, "audio": "clean", "heard": "Read chapters 3-7 first.", "seconds": 1.161}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.181}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 1.166}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.169}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 1.164}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.158}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.165}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 1.185}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.178}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 34, "audio": "clean", "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.187}
+{"condition": "whisper-turbo", "voice": "Samantha", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 1.159}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 0, "audio": "clean", "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.213}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 1, "audio": "clean", "heard": "Tickets start at $18.99 each.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 2, "audio": "clean", "heard": "We paid 3.2 million euros for the site.", "seconds": 1.175}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 3, "audio": "clean", "heard": "The fee rose from 45 pounds to 60 pounds.", "seconds": 1.165}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 4, "audio": "clean", "heard": "Check-in is on 14 February 2027.", "seconds": 1.173}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 5, "audio": "clean", "heard": "The deadline is 3 March, 2027.", "seconds": 1.179}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 6, "audio": "clean", "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.163}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 7, "audio": "clean", "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.164}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 8, "audio": "clean", "heard": "Your train leaves at 7.45.", "seconds": 1.158}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 9, "audio": "clean", "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.177}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 10, "audio": "clean", "heard": "Call back at 1800 hours UK time.", "seconds": 1.17}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 11, "audio": "clean", "heard": "The run took 2h15m.", "seconds": 1.155}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 12, "audio": "clean", "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.171}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 13, "audio": "clean", "heard": "The error rate fell to 0.03%.", "seconds": 1.162}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 14, "audio": "clean", "heard": "High is about 3.14159.", "seconds": 1.159}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 15, "audio": "clean", "heard": "Use a ratio of 3, 1.", "seconds": 1.171}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 16, "audio": "clean", "heard": "Your booking reference is QX7-42B.", "seconds": 1.177}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 17, "audio": "clean", "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.176}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 18, "audio": "clean", "heard": "Enter code 4417 when asked.", "seconds": 1.162}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 19, "audio": "clean", "heard": "The postcode is SW1A1AA.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 20, "audio": "clean", "heard": "The site is 5 kilometers from the airport.", "seconds": 1.163}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 21, "audio": "clean", "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.161}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 22, "audio": "clean", "heard": "The file is 2.4 GB.", "seconds": 1.161}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 23, "audio": "clean", "heard": "Add 250 milliliters of milk.", "seconds": 1.171}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 24, "audio": "clean", "heard": "She finished 21st out of 300.", "seconds": 1.159}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 25, "audio": "clean", "heard": "Read chapters 3-7 first.", "seconds": 1.153}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 26, "audio": "clean", "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.175}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 27, "audio": "clean", "heard": "It's the second time this week.", "seconds": 1.156}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 28, "audio": "clean", "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.168}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 29, "audio": "clean", "heard": "The API returns JSON over HTTPS.", "seconds": 1.178}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 30, "audio": "clean", "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.156}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 31, "audio": "clean", "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.167}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 32, "audio": "clean", "heard": "The city has 8,945,000 residents.", "seconds": 1.182}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 33, "audio": "clean", "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.181}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 34, "audio": "clean", "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.197}
+{"condition": "whisper-turbo", "voice": "Karen", "no": 35, "audio": "clean", "heard": "The year 1066 changed England.", "seconds": 1.153}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50, including VAT.", "seconds": 0.515}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 0.237}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 0.228}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 0.227}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 4, "heard": "Chechin is on the 14th of February 2027.", "seconds": 0.276}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 0.258}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday, the 9th of February.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 7, "heard": "Founded in 1998, were built in 2004.", "seconds": 0.274}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 8, "heard": "Your frame leaves at 7:45.", "seconds": 0.193}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 9, "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.271}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 0.213}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 11, "heard": "The runt of two h15 meters.", "seconds": 0.2}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 0.217}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 14, "heard": "I is about 3.14159.", "seconds": 0.23}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 15, "heard": "User ratio of 3, 1.", "seconds": 0.166}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 16, "heard": "Your book in references QX7-42B.", "seconds": 0.225}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 17, "heard": "Flight BA 2490 departs from gate 23.", "seconds": 0.272}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 0.215}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 19, "heard": "The post code is SW1A1AA.", "seconds": 0.203}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 0.2}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.214}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 0.184}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 0.204}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 25, "heard": "Read chapter 37 first.", "seconds": 0.165}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 0.258}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 0.178}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.189}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 0.25}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.255}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 0.291}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 0.196}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 0, "heard": "The invoice total is 1,249.50 British pounds, including VAT.", "seconds": 0.312}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 1, "heard": "Tickets started $18.99 each.", "seconds": 0.21}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 0.217}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 0.264}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 0.254}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 5, "heard": "The deadline is March 3rd, 2027.", "seconds": 0.232}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday at the area 9.", "seconds": 0.204}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 0.265}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7:45.", "seconds": 0.194}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 9, "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.263}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 10, "heard": "Call back of 1800 hours you pay time.", "seconds": 0.223}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 11, "heard": "The runchuk 2 hours 15 minutes.", "seconds": 0.207}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.217}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 0.215}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 14, "heard": "Pi is about 3.14159.", "seconds": 0.219}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 16, "heard": "Your booking reference is QX7 negative 42B.", "seconds": 0.236}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 17, "heard": "Flight VH 2490 departs from gate 23.", "seconds": 0.262}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 0.192}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 0.187}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.206}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 0.188}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 0.202}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 0.218}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 25, "heard": "Read chapter 37 first.", "seconds": 0.166}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 26, "heard": "Blooms 101-110 are on the first floor.", "seconds": 0.269}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 0.171}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.196}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 0.179}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 31, "heard": "Send a PDF to the HR team ASAP.", "seconds": 0.188}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 0.249}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.25}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 34, "heard": "Population grew by 1,200 to 1,5750.", "seconds": 0.289}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 0.199}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 0, "heard": "The evil's total is £1,249.50, including VAT.", "seconds": 0.304}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 0.214}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 0.224}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 0.23}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 4, "heard": "Checking is on the 14th of February 2027.", "seconds": 0.263}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 0.257}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday, the 9th of February.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 0.268}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 8, "heard": "Your train leaves at 7:45.", "seconds": 0.197}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 9, "heard": "The shop is open 9 a.m. to 5:30 p.m.", "seconds": 0.268}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 10, "heard": "Ballback of 1800 hours UK time.", "seconds": 0.21}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 11, "heard": "The run took 2 h 15 meters.", "seconds": 0.201}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 0.221}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 0.212}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 14, "heard": "Size about 3.14159.", "seconds": 0.205}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 0.195}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 0.224}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 17, "heard": "Like the 80,490, departs from date 23.", "seconds": 0.289}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 0.213}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 0.192}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 0.198}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 0.215}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 0.194}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 0.205}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 0.224}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 25, "heard": "Read chapters 37 first.", "seconds": 0.163}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 26, "heard": "Lose 101-110 on the first floor.", "seconds": 0.261}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 0.166}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.189}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 29, "heard": "The APR returns JSL in over HTTPS.", "seconds": 0.199}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 0.19}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.199}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 0.257}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 0.257}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 34, "heard": "Population grew by 1,200 to 1,5750.", "seconds": 0.288}
+{"condition": "rumble-digits-on", "audio": "noisy", "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 0, "heard": "The invoice total is one thousand two hundred and forty nine pounds and fifty pence including VAT.", "seconds": 0.315}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 1, "heard": "Tickets start at eighteen dollars and ninety nine cents each.", "seconds": 0.219}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 2, "heard": "We paid three point two million euros for the site.", "seconds": 0.205}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 3, "heard": "The fee rose from forty-five pounds to sixty pounds.", "seconds": 0.215}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 4, "heard": "Chechin is on the fourteenth of February two thousand and twenty seven.", "seconds": 0.258}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 5, "heard": "The deadline is the third of March, twenty twenty seven.", "seconds": 0.228}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday, the ninth of February.", "seconds": 0.206}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 7, "heard": "Founded in nineteen ninety eight, were built in two thousand and four.", "seconds": 0.247}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 8, "heard": "Your frame leaves at seven forty-five.", "seconds": 0.178}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 9, "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.235}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 10, "heard": "Call back at eighteen hundred hours UK time.", "seconds": 0.181}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 11, "heard": "The runt of two h fifteen meters.", "seconds": 0.183}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 12, "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.205}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 13, "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.212}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 14, "heard": "I is about three point one four one five nine.", "seconds": 0.207}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 15, "heard": "User ratio of three: one.", "seconds": 0.17}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 16, "heard": "Your book in references QX seven dash forty two B.", "seconds": 0.234}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 17, "heard": "Flight BA two thousand four hundred and ninety departs from gate twenty three.", "seconds": 0.26}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 18, "heard": "Enter code four thousand four hundred and seventeen when asked.", "seconds": 0.221}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 19, "heard": "The post code is SW one A one AA.", "seconds": 0.198}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 20, "heard": "The site is five kilometers from the airport.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 21, "heard": "Set the oven to one hundred and eighty degrees Celsius.", "seconds": 0.208}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 22, "heard": "The file is two point four GB.", "seconds": 0.176}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 23, "heard": "Add two hundred and fifty milliliters of milk.", "seconds": 0.206}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 24, "heard": "She finished twenty-first out of three hundred.", "seconds": 0.183}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 25, "heard": "Read chapters three seven first.", "seconds": 0.155}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 26, "heard": "Rooms one hundred and one dash one hundred and ten are on the first floor.", "seconds": 0.267}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 0.165}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.196}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 0.18}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately ten minutes.", "seconds": 0.171}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.197}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 32, "heard": "The city has eight million nine hundred and forty five thousand residents.", "seconds": 0.241}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 33, "heard": "Revenue hit two point seven billion dollars in two thousand and twenty six.", "seconds": 0.253}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 34, "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred and fifty.", "seconds": 0.275}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Daniel", "no": 35, "heard": "The year ten sixty six changed England.", "seconds": 0.181}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 0, "heard": "The invoice total is one thousand two hundred forty nine point five zero British pounds, including VAT.", "seconds": 0.313}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 1, "heard": "Tickets started eighteen dollars and ninety nine cents each.", "seconds": 0.211}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 2, "heard": "We paid three point two million euros for the site.", "seconds": 0.201}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 3, "heard": "The fee rose from forty-five British pounds to sixty British pounds.", "seconds": 0.235}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 4, "heard": "Check-in is on February fourteenth, two thousand twenty-seven.", "seconds": 0.236}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 5, "heard": "The deadline is March third, twenty twenty seven.", "seconds": 0.199}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday at the area nine.", "seconds": 0.198}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 7, "heard": "Founded in nineteen ninety eight, rebuilt in two thousand four.", "seconds": 0.228}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 8, "heard": "Your train leaves at seven forty-five.", "seconds": 0.172}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 9, "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.227}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 10, "heard": "Call back of eighteen hundred hours you pay time.", "seconds": 0.198}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 11, "heard": "The runchuk two hours fifteen minutes.", "seconds": 0.178}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 12, "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.204}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 13, "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.21}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 14, "heard": "Pi is about three point one four one five nine.", "seconds": 0.204}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 15, "heard": "Use a ratio of three, one.", "seconds": 0.177}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 16, "heard": "Your booking reference is QS seven negative forty two V.", "seconds": 0.216}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 17, "heard": "Flight VH two thousand four hundred ninety departs from gate twenty three.", "seconds": 0.249}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 18, "heard": "Enter code four thousand four hundred seventeen when asked.", "seconds": 0.205}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 19, "heard": "The postcode is SW one A one A A.", "seconds": 0.199}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 20, "heard": "The site is five kilometers from the airport.", "seconds": 0.186}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 21, "heard": "Set the oven to one hundred eighty degrees Celsius.", "seconds": 0.2}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 22, "heard": "The file is two point four gigabytes.", "seconds": 0.192}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 23, "heard": "Add to hundred fifty milliliters of milk.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 24, "heard": "She finished twenty first out of three hundred.", "seconds": 0.186}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 25, "heard": "Read chapter three seven first.", "seconds": 0.16}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 26, "heard": "Blooms one hundred one dash one hundred ten are on the first floor.", "seconds": 0.255}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 0.164}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 0.181}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 30, "heard": "Our ETA is approximately ten minutes.", "seconds": 0.175}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 31, "heard": "Send a PDF to the HR team ASAP.", "seconds": 0.188}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 32, "heard": "The city has eight million nine hundred forty five thousand residents.", "seconds": 0.233}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 33, "heard": "Revenue hit two point seven billion dollars in two thousand twenty six.", "seconds": 0.242}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 34, "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred fifty.", "seconds": 0.254}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Samantha", "no": 35, "heard": "The year one thousand sixty six changed England.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 0, "heard": "The evil's total is one thousand two hundred and forty nine pounds and fifty pence including VAT.", "seconds": 0.318}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 1, "heard": "Tickets start at eighteen dollars and ninety nine cents each.", "seconds": 0.219}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 2, "heard": "We paid three point two million euros for the site.", "seconds": 0.206}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 3, "heard": "The fee rose from forty-five pounds to sixty pounds.", "seconds": 0.216}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 4, "heard": "Checking is on the fourteenth of February two thousand and twenty seven.", "seconds": 0.249}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 5, "heard": "The deadline is the third of March, twenty twenty seven.", "seconds": 0.221}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday, the ninth of February.", "seconds": 0.202}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 7, "heard": "Founded in nineteen ninety eight, rebuilt in two thousand and four.", "seconds": 0.233}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 8, "heard": "Your train leaves at seven forty-five.", "seconds": 0.174}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 9, "heard": "The shop is open nine a.m. to five thirty p.m.", "seconds": 0.234}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 10, "heard": "Ballback of eighteen hundred hours UK time.", "seconds": 0.188}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 11, "heard": "The run took two h fifteen meters.", "seconds": 0.178}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 12, "heard": "Occupancy rose twelve point five percent this quarter.", "seconds": 0.203}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 13, "heard": "The error rate fell to zero point zero three percent.", "seconds": 0.208}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 14, "heard": "Size about three point one four one five nine.", "seconds": 0.198}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 15, "heard": "Use a ratio of three, one.", "seconds": 0.174}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 16, "heard": "Your booking reference is QX seven dash forty two B.", "seconds": 0.224}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 17, "heard": "Like the eighty thousand four hundred and ninety, departs from date twenty three.", "seconds": 0.269}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 18, "heard": "Enter code four thousand four hundred and seventeen when asked.", "seconds": 0.219}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 19, "heard": "The postcode is SW one A one A A.", "seconds": 0.195}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 20, "heard": "The site is five kilometers from the airport.", "seconds": 0.19}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 21, "heard": "Set the oven to one hundred and eighty degrees Celsius.", "seconds": 0.211}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 22, "heard": "The power is two point four gigabytes.", "seconds": 0.185}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 23, "heard": "Add two hundred and fifty milliliters of milk.", "seconds": 0.2}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 24, "heard": "She finished twenty-first out of three hundred.", "seconds": 0.186}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 25, "heard": "Read chapters three seven first.", "seconds": 0.161}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 26, "heard": "Lose one hundred and one dash one hundred and ten on the first floor.", "seconds": 0.265}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 0.166}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 0.193}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 29, "heard": "The APR returns JSON over HTTPS.", "seconds": 0.177}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 30, "heard": "Our ETA is approximately ten minutes.", "seconds": 0.176}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 0.194}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 32, "heard": "The city has eight million nine hundred and forty five thousand residents.", "seconds": 0.238}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 33, "heard": "Revenue hit two point seven billion dollars in two thousand and twenty six.", "seconds": 0.249}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 34, "heard": "Population grew by one thousand two hundred to fifteen thousand seven hundred and fifty.", "seconds": 0.261}
+{"condition": "rumble-digits-off", "audio": "noisy", "voice": "Karen", "no": 35, "heard": "The year one thousand and sixty six changed England.", "seconds": 0.203}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 3.441}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.182}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.173}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.173}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.168}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.178}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday 9th February.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 7, "heard": "founded in 1998, rebuilt in 2004.", "seconds": 1.159}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 8, "heard": "Your frame leaves at 7.45.", "seconds": 1.178}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.182}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 10, "heard": "called back at 1800 hours UK time.", "seconds": 1.167}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 11, "heard": "The run took two age 15 meters.", "seconds": 1.156}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.172}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.17}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.194}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3.1.", "seconds": 1.269}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.222}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.201}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.172}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A. 1AA.", "seconds": 1.249}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 20, "heard": "The site is 5 km from the airport.", "seconds": 1.211}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.182}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.183}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 23, "heard": "Add 250 ml of milk.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.163}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 25, "heard": "Read chapter 37 first.", "seconds": 1.145}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.187}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.16}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.169}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 30, "heard": "Our EPA is approximately 10 minutes.", "seconds": 1.153}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.183}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.176}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.183}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 34, "heard": "population grew by 1200 to 15750.", "seconds": 1.161}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.163}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 0, "heard": "The invoice total is 1,249.50 British pounds including that.", "seconds": 1.191}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.171}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 3, "heard": "the fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.18}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 1.174}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.174}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.162}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.16}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.179}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 10, "heard": "Call back at 1800 hours you take time.", "seconds": 1.173}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 11, "heard": "The run took 2 hours 15 minutes.", "seconds": 1.16}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.171}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.163}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 14, "heard": "High is about 3.14159", "seconds": 1.156}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.155}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 16, "heard": "Your booking reference is QF7-42B.", "seconds": 1.184}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 17, "heard": "Flight VA 2490 departs from gate 23", "seconds": 1.165}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.151}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.167}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 21, "heard": "set the oven to 180 degrees Celsius.", "seconds": 1.167}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 22, "heard": "The file is 2.4GB.", "seconds": 1.157}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.158}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.161}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 25, "heard": "Read chapter 37 first.", "seconds": 1.148}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.183}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.163}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 30, "heard": "RETA is approximately 10 minutes.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 31, "heard": "Send a PDF to the HR team ASAP.", "seconds": 1.182}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.171}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.183}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.18}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.171}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 0, "heard": "The Eagles total is £1,249.50 including VAT.", "seconds": 1.225}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.179}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the side.", "seconds": 1.186}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 3, "heard": "The fee rose from 45 pounds to 60 pounds.", "seconds": 1.178}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.18}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.185}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 7, "heard": "Founded in 1998, Rebuild in 2004", "seconds": 1.173}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 8, "heard": "Your train leaves at 7.45", "seconds": 1.162}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.194}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 10, "heard": "all back at 1800 hours UK time", "seconds": 1.174}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 11, "heard": "around 2h50 meters", "seconds": 1.151}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter", "seconds": 1.179}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.177}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 14, "heard": "High is about 3.14159", "seconds": 1.17}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.166}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 16, "heard": "Your booking reference is PX7-42B", "seconds": 1.192}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 17, "heard": "Like the 80,490 departs from day 23", "seconds": 1.186}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked", "seconds": 1.157}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 19, "heard": "The postcode is FW1A1AA", "seconds": 1.176}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 20, "heard": "The side is 5km from the airport", "seconds": 1.184}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.207}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 22, "heard": "The foul is 2.4 gigabyte.", "seconds": 1.17}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 23, "heard": "Add 250 ml of milk.", "seconds": 1.157}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.179}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 25, "heard": "Read Chapters 3 7 First", "seconds": 1.156}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 26, "heard": "Luz 101-110 on the first floor.", "seconds": 1.182}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 27, "heard": "if the second time is weak", "seconds": 1.161}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.177}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 29, "heard": "The APR returns JSON over HTTPS.", "seconds": 1.176}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.164}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.186}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 32, "heard": "The city has 8 million 945 thousand residents.", "seconds": 1.177}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.188}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.174}
+{"condition": "whisper-turbo", "audio": "noisy", "voice": "Karen", "no": 35, "heard": "The year 1066 changed England", "seconds": 1.148}

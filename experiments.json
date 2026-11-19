@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-19-asr-number-writing",
+  "date": "2026-11-19",
+  "slug": "asr-number-writing",
+  "launch": {
+   "name": "Reson8 Rumble-2-Flash (0.5B open ASR, Apache 2.0; Open ASR Leaderboard v1.16.1 results 18 Nov)",
+   "official": "https://huggingface.co/Reson8/Rumble-2-Flash",
+   "second": "https://artificialanalysis.ai/speech-to-text/models/reson8"
+  },
+  "skills": [
+   "speech recognition (ASR)",
+   "voice AI pipelines",
+   "LLM/ML evaluation",
+   "Hugging Face Transformers"
+  ],
+  "media": "2026-11-19-asr-number-writing/media/written.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "36 synthetic sentences x 3 macOS say voices x clean/5 dB white noise; Rumble transformers 5.23.0 MPS fp16 greedy vs whisper-large-v3-turbo mlx 0.4.3 temp 0; written score 96/93 vs 102/88 of 108; 2 sentences unspoken by say (3-7, 3:1)"
+ },
+ {
   "id": "2026-11-18-review-reply-skill",
   "date": "2026-11-18",
   "slug": "review-reply-skill",

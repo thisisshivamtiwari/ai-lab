@@ -1,0 +1,19 @@
+[project]
+name = "asr-number-writing"
+version = "0.1.0"
+description = "Does Rumble-2-Flash write prices, dates, times and codes the way a person would? Compared with Whisper."
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "transformers==5.23.0",
+    "torch==2.15.0",
+    "accelerate==1.16.0",
+    "librosa==0.11.0",
+    "numpy==2.4.6",
+    "soundfile==0.13.1",
+    "mlx-whisper==0.4.3",
+    "whisper-normalizer==0.1.12",
+    "matplotlib==3.10.7",
+]
+
+[tool.uv]
+package = false
