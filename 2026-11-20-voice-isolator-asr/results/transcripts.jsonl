@@ -1,0 +1,648 @@
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 11.505}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.25}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.183}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.185}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.194}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.191}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.199}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.185}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 4, "heard": "Check-in is on the 14th of February 2027.", "seconds": 1.216}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 4, "heard": "Check-in is on the 14th of February 2027.", "seconds": 1.203}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.193}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.206}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.173}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.175}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 7, "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.189}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 7, "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.194}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.205}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.19}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.225}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.243}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.222}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.269}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 11, "heard": "The run took 2h15 meters.", "seconds": 1.249}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 11, "heard": "The run took 2h15 meters.", "seconds": 1.263}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.296}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.311}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.324}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.326}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 14, "heard": "Pi is about 3.14159.", "seconds": 1.369}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 14, "heard": "Pi is about 3.14159.", "seconds": 1.333}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3.1", "seconds": 1.337}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3.1", "seconds": 1.35}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.373}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.371}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.377}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.399}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.416}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.414}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A. 1AA.", "seconds": 1.49}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.471}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.479}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.473}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.448}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.43}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.411}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.406}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.386}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.386}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.408}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.441}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 25, "heard": "Read chapters 3 7 first.", "seconds": 1.512}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 25, "heard": "Read chapters 3 7 first.", "seconds": 1.513}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.533}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.487}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.451}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.408}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.402}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.378}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.369}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.382}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.416}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.416}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.428}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.415}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.404}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.386}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.369}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.361}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.347}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.336}
+{"noise": "clean", "isolated": false, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.319}
+{"noise": "clean", "isolated": true, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.359}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.415}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.406}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.366}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.361}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.341}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.333}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.326}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.322}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 1.319}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 1.312}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.312}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.302}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.31}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.315}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 7, "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.32}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 7, "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.321}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.309}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.311}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.347}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.327}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.309}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.317}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 11, "heard": "The run took 2 hours 15 minutes.", "seconds": 1.315}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 11, "heard": "The run took 2 hours 15 minutes.", "seconds": 1.324}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.325}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.319}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.316}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.339}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.322}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.313}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.335}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.386}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.497}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.58}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.593}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.525}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.484}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.437}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.43}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.387}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.372}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.369}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.361}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.372}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes", "seconds": 1.349}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes", "seconds": 1.365}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.388}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.379}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.374}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.368}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.37}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.335}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.358}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.34}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.325}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.355}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.381}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.379}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.4}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.351}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.35}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.327}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.337}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.33}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.337}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.344}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.361}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.332}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.338}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.367}
+{"noise": "clean", "isolated": false, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.359}
+{"noise": "clean", "isolated": true, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.351}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.375}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.369}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.343}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.368}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.352}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.358}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 3, "heard": "The fee rose from 45 pounds to 60 pounds.", "seconds": 1.355}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 3, "heard": "The fee rose from 45 pounds to 60 pounds.", "seconds": 1.362}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.385}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.421}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.4}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.409}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.384}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.361}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.372}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.478}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.571}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.641}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.684}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.57}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.501}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.466}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 11, "heard": "The run took 2h15 meters.", "seconds": 1.433}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 11, "heard": "The run took 2h15 meters.", "seconds": 1.414}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.402}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.382}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.412}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.445}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.43}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.408}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.386}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.373}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.37}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.354}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.348}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.343}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.346}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.352}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.404}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.427}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.434}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.4}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.371}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.356}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.337}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.343}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.322}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.326}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.328}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.336}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.331}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.334}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.354}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.337}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 1.316}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 1.328}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.336}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.327}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.323}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.328}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.324}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.33}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.335}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.328}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.341}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.337}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.351}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.357}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.37}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.37}
+{"noise": "clean", "isolated": false, "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.344}
+{"noise": "clean", "isolated": true, "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.355}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.387}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.39}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.345}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.366}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.357}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.379}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 4, "heard": "Check-in is on the 14th of February 2027.", "seconds": 1.387}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 4, "heard": "Check-in is on the 14th of February 2027.", "seconds": 1.382}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.371}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.382}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.367}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.357}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 7, "heard": "Founded in 1998. Rebuilt in 2004.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 8, "heard": "Your frame leaves at 7.45.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.38}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.376}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.377}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 10, "heard": "Called back at 1800 hours UK time.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 10, "heard": "Called back at 1800 hours UK time.", "seconds": 1.386}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 11, "heard": "The runs of 2H 15 meters.", "seconds": 1.377}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 11, "heard": "The run took two age 15 meters.", "seconds": 1.371}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.394}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.442}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.465}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.505}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.516}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.494}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3.1.", "seconds": 1.467}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3.1", "seconds": 1.414}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.455}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.457}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.439}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.431}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.392}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A. 1AA.", "seconds": 1.406}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A. 1AA.", "seconds": 1.397}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.365}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.383}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.414}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.448}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.454}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 22, "heard": "The file is 2.4 GB.", "seconds": 1.416}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 23, "heard": "Add 250 ml of milk.", "seconds": 1.387}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of MILF.", "seconds": 1.384}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 25, "heard": "Read chapters 37 first.", "seconds": 1.337}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.355}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.386}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.355}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.385}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.416}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.387}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.376}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.373}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.349}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.351}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.365}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.362}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.382}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.386}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.391}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.415}
+{"noise": "white-5db", "isolated": false, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.365}
+{"noise": "white-5db", "isolated": true, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.363}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 0, "heard": "The invoice total is £1,249.50 including that.", "seconds": 1.417}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 0, "heard": "The invoice total is £1,249.50 including that.", "seconds": 1.392}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.37}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.38}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.376}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.378}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.373}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 1.37}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 4, "heard": "Check-in is on February 14, 2027.", "seconds": 1.374}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.353}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 5, "heard": "the deadline is March per-2027.", "seconds": 1.356}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.356}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 6, "heard": "The meeting moved to Tuesday, February 9.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 7, "heard": "founded in 1998, rebuilt in 2004.", "seconds": 1.402}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.416}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.425}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 8, "heard": "Your train leads at 7.45.", "seconds": 1.408}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.424}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.399}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 10, "heard": "call back at 1800 hours UK time.", "seconds": 1.37}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.361}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 11, "heard": "The run took 2 hours 15 minutes.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 11, "heard": "the run till 2 hours 15 minutes.", "seconds": 1.367}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.373}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 13, "heard": "the error rate fell to 0.03%.", "seconds": 1.353}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.361}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 14, "heard": "high is about 3.14159.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1", "seconds": 1.347}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.362}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 16, "heard": "your booking references QX7-42B.", "seconds": 1.361}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.358}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 17, "heard": "Flight VA2490 departs from gate 23.", "seconds": 1.351}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 17, "heard": "Like BA2490 departs from gate 23.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.353}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 18, "heard": "Enter code 44171S", "seconds": 1.354}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.364}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.355}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.363}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 21, "heard": "set the oven to 180 degrees Celsius", "seconds": 1.337}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.352}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 1.363}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 GB", "seconds": 1.353}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.369}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 23, "heard": "Add 250 milliliters of NIL.", "seconds": 1.364}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.354}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.358}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.36}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.371}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.399}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.37}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.378}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.371}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS", "seconds": 1.361}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 30, "heard": "RETA is approximately 10 minutes.", "seconds": 1.375}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 30, "heard": "RETA is approximately 10 minutes.", "seconds": 1.361}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 31, "heard": "send the pdf to the HR team ASAP.", "seconds": 1.389}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 31, "heard": "Send the PDF to the HR team ASAP.", "seconds": 1.424}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.397}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.408}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.397}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.392}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.384}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.39}
+{"noise": "white-5db", "isolated": false, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.386}
+{"noise": "white-5db", "isolated": true, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.368}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.418}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 0, "heard": "The invoice total is £1,249.50 including BAT.", "seconds": 1.402}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.368}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.382}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the site", "seconds": 1.375}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.383}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.37}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.392}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.428}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 4, "heard": "Check-in is on 14 February 2027.", "seconds": 1.422}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.413}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 5, "heard": "The deadline is 3 March, 2027.", "seconds": 1.402}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.384}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 6, "heard": "The meeting moved to Tuesday 9 February.", "seconds": 1.388}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.378}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 7, "heard": "Founded in 1998, regilled in 2004.", "seconds": 1.393}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.421}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.466}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.451}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 9, "heard": "The shop is open 9am to 5.30pm.", "seconds": 1.442}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.416}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.43}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 11, "heard": "The run took two age 15 meters.", "seconds": 1.433}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 11, "heard": "The run took two age 15 meters.", "seconds": 1.417}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter", "seconds": 1.415}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.421}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 13, "heard": "the error rate fell to 0.03%.", "seconds": 1.39}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.382}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 14, "heard": "High is about 3.14159", "seconds": 1.384}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 14, "heard": "High is about 3.14159.", "seconds": 1.424}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.508}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 15, "heard": "Use a ratio of 3, 1.", "seconds": 1.573}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 16, "heard": "Your booking reference is QX7-42B.", "seconds": 1.602}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 16, "heard": "Your book in reference is QX7-42B.", "seconds": 1.559}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 17, "heard": "Flight VA2490 departs from gate 23.", "seconds": 1.497}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 17, "heard": "Flight VA2490 departs from gate 23.", "seconds": 1.51}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.554}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.582}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.582}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1AA.", "seconds": 1.608}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 20, "heard": "The site is 5km from the airport.", "seconds": 1.567}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.509}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.517}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.574}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 22, "heard": "The file is 2.4GB", "seconds": 1.546}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 1.503}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 23, "heard": "Add 250 ml of milk.", "seconds": 1.503}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 23, "heard": "add 250 milliliters of Neil", "seconds": 1.475}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.44}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.421}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 25, "heard": "Read chapters 3 7 first.", "seconds": 1.407}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 25, "heard": "Read Chapters 3-7 first.", "seconds": 1.403}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 26, "heard": "Lins 101-110 are on the first floor.", "seconds": 1.41}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 26, "heard": "Moons 101-110 are on the first floor.", "seconds": 1.398}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 1.364}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 27, "heard": "It's the second time this week.", "seconds": 1.359}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.391}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.413}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.413}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.411}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.356}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.358}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.361}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 31, "heard": "Send the PDF to the HR Team ASAP.", "seconds": 1.366}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.352}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.348}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.354}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 33, "heard": "Revenue v. $2.7 billion in 2026.", "seconds": 1.367}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 34, "heard": "population grew by 1,200 to 15,750", "seconds": 1.357}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 34, "heard": "population grew by 1,200 to 15,750", "seconds": 1.345}
+{"noise": "white-5db", "isolated": false, "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.336}
+{"noise": "white-5db", "isolated": true, "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.35}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1249.50 including VAT.", "seconds": 1.386}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 0, "heard": "The invoice total is £1,249.50 including VAT.", "seconds": 1.391}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99.", "seconds": 1.354}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.36}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 2, "heard": "We paid 3.2 million euros for the site.", "seconds": 1.366}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 2, "heard": "The shape 3.2 million euros for the site.", "seconds": 1.367}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.359}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 3, "heard": "The fee rose from £45 to £60.", "seconds": 1.354}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 4, "heard": "Objection is on the 14th of February, 2027.", "seconds": 1.377}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 4, "heard": "Check-in is on the 14th of February, 2027.", "seconds": 1.395}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.388}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.396}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 6, "heard": "The meeting moves to Tuesday, the 9th of February.", "seconds": 1.386}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 6, "heard": "The meeting moved to Tuesday the 9th of February.", "seconds": 1.374}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 7, "heard": "Founded in 1998, rebuilt in 2004.", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 8, "heard": "Your freight leaves at 7.45.", "seconds": 1.377}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.36}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm", "seconds": 1.372}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 9, "heard": "The shop is open 9am to 5.30pm", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.36}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 10, "heard": "Call back at 1800 hours UK time.", "seconds": 1.376}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 11, "heard": "The run for 2,015 meters.", "seconds": 1.377}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 11, "heard": "The run took two H15 meters.", "seconds": 1.372}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.393}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.382}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%", "seconds": 1.373}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.428}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 14, "heard": "High as about 3.14159", "seconds": 1.509}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 14, "heard": "I is about 3.14159.", "seconds": 1.546}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3 to 1.", "seconds": 1.647}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 15, "heard": "Use a ratio of 3 to 1.", "seconds": 1.927}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 16, "heard": "Your booking reference is UX7-42B.", "seconds": 1.891}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 16, "heard": "Your Google references to X7-42D.", "seconds": 1.762}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 17, "heard": "Flight BA 4490 departs from gate 23.", "seconds": 1.621}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.514}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 18, "heard": "End of code 1417 when I...", "seconds": 1.466}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 18, "heard": "Enter Toad 4400 at 17 when asked.", "seconds": 1.449}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 19, "heard": "The postcode is SW1A 1AA", "seconds": 1.457}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 19, "heard": "The postcode is SW18. 1A.", "seconds": 1.458}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 20, "heard": "The sight is 5 km from the air.", "seconds": 1.409}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.418}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.405}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.4}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 22, "heard": "The finalists 2.4 GB.", "seconds": 1.396}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 22, "heard": "The file is 2.0 GB", "seconds": 1.394}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of milk.", "seconds": 1.391}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 23, "heard": "Add 250 milliliters of mils.", "seconds": 1.385}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.384}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.389}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 25, "heard": "Read chapter 37 first.", "seconds": 1.366}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 25, "heard": "Read chapters 3 7 first.", "seconds": 1.394}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 26, "heard": "Rumors 101-110 are on the first floor.", "seconds": 1.445}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 26, "heard": "Wounds 101-110 are on the first floor.", "seconds": 1.471}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.44}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 27, "heard": "It's the second time this week.", "seconds": 1.425}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.414}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.399}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTP PLC.", "seconds": 1.389}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.37}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 30, "heard": "Our EPA is approximately 10 minutes.", "seconds": 1.362}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 30, "heard": "Our EVA is approximately 10 minutes.", "seconds": 1.36}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 31, "heard": "We are the PBS to the Hrp. S.A.D.", "seconds": 1.411}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 31, "heard": "Send the PDF to the Aesha Team ASAP.", "seconds": 1.377}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.367}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.37}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.378}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.375}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 34, "heard": "Population grew by 1,200 to 15,750.", "seconds": 1.393}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.395}
+{"noise": "babble-0db", "isolated": false, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed the mood.", "seconds": 1.439}
+{"noise": "babble-0db", "isolated": true, "voice": "Daniel", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.441}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 0, "heard": "The invoice told me is 1249.50 British dancing in fact.", "seconds": 1.475}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 0, "heard": "The interest total is 1,249.50 British Downs in Sydney Vat.", "seconds": 1.466}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.432}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.422}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 2, "heard": "I don't want to be here for you. I don't want to be here for you. I don't want to be here for you.", "seconds": 1.538}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 2, "heard": "Shanks, the point of view and drops for the site.", "seconds": 1.434}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 3, "heard": "The fee was from 45 British pounds to 60 British pounds.", "seconds": 1.398}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 3, "heard": "The fee rose from 45 British pounds to 60 British pounds.", "seconds": 1.392}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 4, "heard": "The challenge is on February 14, 2027.", "seconds": 1.386}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 4, "heard": "Check it is on February 14th, 2027.", "seconds": 1.391}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.382}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 5, "heard": "The deadline is March 3, 2027.", "seconds": 1.388}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 6, "heard": "The meeting reached Tuesday February 9th.", "seconds": 1.371}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 6, "heard": "The meeting reached Tuesday, February 9.", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 7, "heard": "Founded in 1998, we built up in 2004.", "seconds": 1.386}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 7, "heard": "Posted in 1998. Rebuilt in 2004.", "seconds": 1.388}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 8, "heard": "Your train leaves at 7.45.", "seconds": 1.375}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 8, "heard": "Your train shifts at 7.45.", "seconds": 1.381}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 9, "heard": "The shop is open from 9 a.m. to 5.30 p.m.", "seconds": 1.442}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 9, "heard": "Shop is up from 9am to 5.30pm", "seconds": 1.409}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 10, "heard": "Call back at $1,800 UK time.", "seconds": 1.45}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 10, "heard": "How about $1,800 you've got time?", "seconds": 1.461}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 11, "heard": "The range of two hours and 10 minutes is a", "seconds": 1.429}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 11, "heard": "The run took 2 hours 15 minutes.", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.42}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 12, "heard": "Occupancy rose 12.5% this quarter.", "seconds": 1.418}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 13, "heard": "The error rate is up to 0.03%.", "seconds": 1.405}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 13, "heard": "The error rate fell to 0.03%.", "seconds": 1.413}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 14, "heard": "Times about 3.141 by Nazis.", "seconds": 1.427}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 14, "heard": "High is above 2.14159", "seconds": 1.416}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3, join.", "seconds": 1.414}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 15, "heard": "Use a ratio of 3. F-Y.", "seconds": 1.414}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 16, "heard": "Your booking reference is QX7-42, please.", "seconds": 1.406}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 16, "heard": "Your booking reference is QOXA to negative 42B", "seconds": 1.399}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 17, "heard": "Clyde VA2490 departs from gate 23.", "seconds": 1.398}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 17, "heard": "Flight B8490 departs from gate 23.", "seconds": 1.381}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 18, "heard": "Enter code 4,417 when asked.", "seconds": 1.382}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 18, "heard": "Enter code 4417 when asked.", "seconds": 1.367}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 19, "heard": "The postcode is SW189.", "seconds": 1.38}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 19, "heard": "Host code is SWMAVDJ.", "seconds": 1.378}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.374}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.37}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 21, "heard": "Set the ozone to 180 degrees Celsius.", "seconds": 1.372}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 1.379}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 22, "heard": "The file is 2.4 gigabytes", "seconds": 1.361}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 23, "heard": "at 350 milliliters of millions.", "seconds": 1.373}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 23, "heard": "Add 260 ml.", "seconds": 1.344}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.364}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 24, "heard": "She finished 21st down on 200th.", "seconds": 1.374}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 25, "heard": "Read chapters 37 first.", "seconds": 1.342}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 25, "heard": "Read chapters 3-7 first.", "seconds": 1.359}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 26, "heard": "Rooms 101-110 are on the party floor.", "seconds": 1.382}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 26, "heard": "Rims 101-110 are on the first floor.", "seconds": 1.373}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 27, "heard": "It's the second time this week.", "seconds": 1.359}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 27, "heard": "It's the second time this weaves.", "seconds": 1.374}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.378}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.386}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 29, "heard": "The API returns JSON over HTTPS.", "seconds": 1.366}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 29, "heard": "The API returns JSONO to HTTP.", "seconds": 1.366}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 30, "heard": "RET is approximately terminated.", "seconds": 1.371}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 30, "heard": "RETA is approximately 10 minutes.", "seconds": 1.369}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 31, "heard": "Send a PDF to the HR team ASAS.", "seconds": 1.389}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 31, "heard": "Sent the PDF to the HR Team ASAS.", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.415}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.425}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.412}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.413}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 34, "heard": "The population grew by 1,200 to 50,750.", "seconds": 1.41}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 34, "heard": "population grew by 1,200 to 15,750.", "seconds": 1.405}
+{"noise": "babble-0db", "isolated": false, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.376}
+{"noise": "babble-0db", "isolated": true, "voice": "Samantha", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.38}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 0, "heard": "The average total is 1249,050% with VAT.", "seconds": 1.418}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 0, "heard": "The imbossed total is 1,240,050 including DAT.", "seconds": 1.469}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 1, "heard": "Tickets started by $10.99 each.", "seconds": 1.424}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 1, "heard": "Tickets start at $18.99 each.", "seconds": 1.429}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 2, "heard": "I shall have 3.2 million euros for the site.", "seconds": 1.434}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 2, "heard": "We've got 3.2 million euros for the site.", "seconds": 1.422}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 3, "heard": "The fee grows from 45 pounds to 60 pounds.", "seconds": 1.4}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 3, "heard": "The fee rose from 45 pounds to 60 pounds.", "seconds": 1.398}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 4, "heard": "Chicken is on the 14th of February 2027.", "seconds": 1.403}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 4, "heard": "Check-in is on the 14th of February, 2027.", "seconds": 1.414}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.411}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 5, "heard": "The deadline is the 3rd of March, 2027.", "seconds": 1.422}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 6, "heard": "The netting roof to Tuesday the 9th of February 1st.", "seconds": 1.439}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 6, "heard": "The netting move to Tuesday the 9th of February.", "seconds": 1.425}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 7, "heard": "Founded in 1998, renewed in 2004.", "seconds": 1.42}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 7, "heard": "Founded in 1998. Revealed in 2004.", "seconds": 1.429}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 8, "heard": "You change news at 7.45.", "seconds": 1.388}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 8, "heard": "Your train trips at 7.45.", "seconds": 1.387}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 9, "heard": "The show is around 9am to 5am to 5pm.", "seconds": 1.409}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 9, "heard": "and shop at 08 am to 5.30 pm", "seconds": 1.408}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 10, "heard": "Go back in 1800 hours of pay time.", "seconds": 1.41}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 10, "heard": "I'm back in 18 minutes and now as you can take", "seconds": 1.433}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 11, "heard": "The road to all that life in the meetings.", "seconds": 1.409}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 11, "heard": "The road took 2h15 meters.", "seconds": 1.397}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 12, "heard": "Occupancy rate 12.5% this quarter.", "seconds": 1.424}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 12, "heard": "Occupancy rose 12.5% this quarter", "seconds": 1.399}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 13, "heard": "The air rate went to 0.03%.", "seconds": 1.393}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 13, "heard": "The air ran back to 0.03%", "seconds": 1.389}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 14, "heard": "The price of average equals 14159.", "seconds": 1.391}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 14, "heard": "Pie is about three cooked month old and five to five.", "seconds": 1.411}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 15, "heard": "Use a ratio of 3 to 1.", "seconds": 1.376}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 15, "heard": "Here's a ratio of 301.", "seconds": 1.389}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 16, "heard": "Publicing references QNX 7-42, please.", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 16, "heard": "Her booking reference is UX7-42B.", "seconds": 1.392}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 17, "heard": "She finished 22, 390 departs from day 23.", "seconds": 1.412}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 17, "heard": "Flight BA2490 departs from gate 23.", "seconds": 1.413}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 18, "heard": "Intercorp 3417 winning odds please.", "seconds": 1.446}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 18, "heard": "Enter per 4417 when asked.", "seconds": 1.457}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 19, "heard": "The postcode is SW1A1A.", "seconds": 1.487}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 19, "heard": "Postcode is SW11AA", "seconds": 1.422}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 20, "heard": "The 35 km from the airport is a", "seconds": 1.426}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 20, "heard": "The site is 5 kilometers from the airport.", "seconds": 1.411}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 21, "heard": "Set the oven to 180 degrees Celsius.", "seconds": 1.406}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 21, "heard": "Set the oven to 190 degrees Celsius.", "seconds": 1.392}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 22, "heard": "The file is 2.4 gigabits.", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 22, "heard": "The file is 2.4 gigabytes.", "seconds": 1.391}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 23, "heard": "at 370 villages and millions.", "seconds": 1.41}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 23, "heard": "at 250 milliliters and units.", "seconds": 1.41}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 24, "heard": "She finished 21st out of 300.", "seconds": 1.399}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 25, "heard": "In chapters 37 first", "seconds": 1.377}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 25, "heard": "Chapters 3-7-1", "seconds": 1.397}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 26, "heard": "Rooms 101-110 are on the first floor.", "seconds": 1.4}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 26, "heard": "Roots 101-110 on the first 20th.", "seconds": 1.393}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 27, "heard": "It's the second time this morning.", "seconds": 1.381}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 27, "heard": "It's your second time this week.", "seconds": 1.401}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 28, "heard": "Doctors think we're at the St. James Hospital.", "seconds": 1.417}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 28, "heard": "Dr. Smith works at St. James Hospital.", "seconds": 1.402}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 29, "heard": "The AP by returns, JSO win over HTTPS.", "seconds": 1.439}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 29, "heard": "The API returns JSON to another HTTPS.", "seconds": 1.562}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 30, "heard": "LVTA is a peak symmetry 10 to 9 cents.", "seconds": 1.657}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 30, "heard": "Our ETA is approximately 10 minutes.", "seconds": 1.655}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 31, "heard": "We will be the active agent on Team ASAP.", "seconds": 1.633}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 31, "heard": "Send the PDF to EHRT MaySAP", "seconds": 1.557}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.518}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 32, "heard": "The city has 8,945,000 residents.", "seconds": 1.481}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.488}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 33, "heard": "Revenue hit $2.7 billion in 2026.", "seconds": 1.538}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 34, "heard": "population grew by 1,200 to 15,750 more.", "seconds": 1.601}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 34, "heard": "population 4 by 1,200 to 15,750.", "seconds": 1.567}
+{"noise": "babble-0db", "isolated": false, "voice": "Karen", "no": 35, "heard": "The site is 5269 Air Force in the United States.", "seconds": 1.59}
+{"noise": "babble-0db", "isolated": true, "voice": "Karen", "no": 35, "heard": "The year 1066 changed England.", "seconds": 1.529}

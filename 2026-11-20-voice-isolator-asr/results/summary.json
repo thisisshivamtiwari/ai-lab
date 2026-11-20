@@ -1,0 +1,345 @@
+{
+ "setup": "36 sentences x 3 macOS say voices (Daniel en_GB, Samantha en_US, Karen en_AU) = 108 clips at 48 kHz, each clean, with white noise at 5 dB SNR and with 4-voice synthetic babble at 0 dB SNR; each clip transcribed as is and after inworld/voice-isolator (offline model, inworld-voice-isolation 1.0.0, torch 2.15.0 on MPS, fp32); Whisper large-v3-turbo via mlx-whisper 0.4.3, temperature 0; one MacBook (Apple M2), one run each",
+ "written": {
+  "clean": {
+   "as_is": {
+    "passed": 102,
+    "n": 108
+   },
+   "isolated": {
+    "passed": 102,
+    "n": 108
+   }
+  },
+  "white-5db": {
+   "as_is": {
+    "passed": 98,
+    "n": 108
+   },
+   "isolated": {
+    "passed": 98,
+    "n": 108
+   }
+  },
+  "babble-0db": {
+   "as_is": {
+    "passed": 67,
+    "n": 108
+   },
+   "isolated": {
+    "passed": 76,
+    "n": 108
+   }
+  }
+ },
+ "wer": {
+  "clean": {
+   "as_is": 0.1087,
+   "isolated": 0.1087
+  },
+  "white-5db": {
+   "as_is": 0.1233,
+   "isolated": 0.1424
+  },
+  "babble-0db": {
+   "as_is": 0.4508,
+   "isolated": 0.3304
+  }
+ },
+ "fixed_broken": {
+  "clean": {
+   "fixed": 0,
+   "broken": 0
+  },
+  "white-5db": {
+   "fixed": 3,
+   "broken": 3
+  },
+  "babble-0db": {
+   "fixed": 17,
+   "broken": 8
+  }
+ },
+ "isolation_realtime_factor": 0.715,
+ "changed_by_isolation": [
+  {
+   "noise": "white-5db",
+   "voice": "Daniel",
+   "text": "The run took 2h 15m.",
+   "as_is": "The runs of 2H 15 meters.",
+   "isolated": "The run took two age 15 meters.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "white-5db",
+   "voice": "Daniel",
+   "text": "Read chapters 3-7 first.",
+   "as_is": "Read chapters 37 first.",
+   "isolated": "Read chapters 3-7 first.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "white-5db",
+   "voice": "Samantha",
+   "text": "The deadline is 3 March 2027.",
+   "as_is": "The deadline is March 3, 2027.",
+   "isolated": "the deadline is March per-2027.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "white-5db",
+   "voice": "Samantha",
+   "text": "Flight BA2490 departs from gate 23.",
+   "as_is": "Flight VA2490 departs from gate 23.",
+   "isolated": "Like BA2490 departs from gate 23.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "white-5db",
+   "voice": "Karen",
+   "text": "The invoice total is £1,249.50 including VAT.",
+   "as_is": "The invoice total is £1,249.50 including VAT.",
+   "isolated": "The invoice total is £1,249.50 including BAT.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "white-5db",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "as_is": "Read chapters 3 7 first.",
+   "isolated": "Read Chapters 3-7 first.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Daniel",
+   "text": "Flight BA2490 departs from gate 23.",
+   "as_is": "Flight BA 4490 departs from gate 23.",
+   "isolated": "Flight BA2490 departs from gate 23.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Daniel",
+   "text": "The postcode is SW1A 1AA.",
+   "as_is": "The postcode is SW1A 1AA",
+   "isolated": "The postcode is SW18. 1A.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Daniel",
+   "text": "The file is 2.4 GB.",
+   "as_is": "The finalists 2.4 GB.",
+   "isolated": "The file is 2.0 GB",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Daniel",
+   "text": "The API returns JSON over HTTPS.",
+   "as_is": "The API returns JSON over HTTP PLC.",
+   "isolated": "The API returns JSON over HTTPS.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "Call back at 18:00 UK time.",
+   "as_is": "Call back at $1,800 UK time.",
+   "isolated": "How about $1,800 you've got time?",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "The run took 2h 15m.",
+   "as_is": "The range of two hours and 10 minutes is a",
+   "isolated": "The run took 2 hours 15 minutes.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "She finished 21st out of 300.",
+   "as_is": "She finished 21st out of 300.",
+   "isolated": "She finished 21st down on 200th.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "Read chapters 3-7 first.",
+   "as_is": "Read chapters 37 first.",
+   "isolated": "Read chapters 3-7 first.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "as_is": "Rooms 101-110 are on the party floor.",
+   "isolated": "Rims 101-110 are on the first floor.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "The API returns JSON over HTTPS.",
+   "as_is": "The API returns JSON over HTTPS.",
+   "isolated": "The API returns JSONO to HTTP.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "Our ETA is approx. 10 min.",
+   "as_is": "RET is approximately terminated.",
+   "isolated": "RETA is approximately 10 minutes.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Samantha",
+   "text": "Population grew by 1,200 to 15,750.",
+   "as_is": "The population grew by 1,200 to 50,750.",
+   "isolated": "population grew by 1,200 to 15,750.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Tickets start at $18.99 each.",
+   "as_is": "Tickets started by $10.99 each.",
+   "isolated": "Tickets start at $18.99 each.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "The run took 2h 15m.",
+   "as_is": "The road to all that life in the meetings.",
+   "isolated": "The road took 2h15 meters.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Use a ratio of 3:1.",
+   "as_is": "Use a ratio of 3 to 1.",
+   "isolated": "Here's a ratio of 301.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Flight BA2490 departs from gate 23.",
+   "as_is": "She finished 22, 390 departs from day 23.",
+   "isolated": "Flight BA2490 departs from gate 23.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Enter code 4417 when asked.",
+   "as_is": "Intercorp 3417 winning odds please.",
+   "isolated": "Enter per 4417 when asked.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Set the oven to 180°C.",
+   "as_is": "Set the oven to 180 degrees Celsius.",
+   "isolated": "Set the oven to 190 degrees Celsius.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Add 250 ml of milk.",
+   "as_is": "at 370 villages and millions.",
+   "isolated": "at 250 milliliters and units.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Read chapters 3-7 first.",
+   "as_is": "In chapters 37 first",
+   "isolated": "Chapters 3-7-1",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Rooms 101–110 are on the 1st floor.",
+   "as_is": "Rooms 101-110 are on the first floor.",
+   "isolated": "Roots 101-110 on the first 20th.",
+   "written_as_is": true,
+   "written_isolated": false
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Dr. Smith works at St. James Hospital.",
+   "as_is": "Doctors think we're at the St. James Hospital.",
+   "isolated": "Dr. Smith works at St. James Hospital.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "The API returns JSON over HTTPS.",
+   "as_is": "The AP by returns, JSO win over HTTPS.",
+   "isolated": "The API returns JSON to another HTTPS.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "Our ETA is approx. 10 min.",
+   "as_is": "LVTA is a peak symmetry 10 to 9 cents.",
+   "isolated": "Our ETA is approximately 10 minutes.",
+   "written_as_is": false,
+   "written_isolated": true
+  },
+  {
+   "noise": "babble-0db",
+   "voice": "Karen",
+   "text": "The year 1066 changed England.",
+   "as_is": "The site is 5269 Air Force in the United States.",
+   "isolated": "The year 1066 changed England.",
+   "written_as_is": false,
+   "written_isolated": true
+  }
+ ]
+}

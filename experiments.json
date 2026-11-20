@@ -1,5 +1,25 @@
 [
  {
+  "id": "2026-11-20-voice-isolator-asr",
+  "date": "2026-11-20",
+  "slug": "voice-isolator-asr",
+  "launch": {
+   "name": "Inworld Voice Isolator v1 (open 48 kHz speech denoiser, 64M offline / 58M realtime, Apache 2.0; 18 Nov)",
+   "official": "https://inworld.ai/blog/introducing-voice-isolator",
+   "second": "https://explainx.ai/blog/inworld-voice-isolator-open-apache-48khz-realtime-64m-parameters-2026"
+  },
+  "skills": [
+   "speech recognition (ASR)",
+   "audio preprocessing / speech enhancement",
+   "voice AI pipelines",
+   "LLM/ML evaluation"
+  ],
+  "media": "2026-11-20-voice-isolator-asr/media/isolation.png",
+  "status": "shipped",
+  "posted": {},
+  "notes": "108 synthetic clips x clean / white 5 dB / 4-voice synthetic babble 0 dB, Whisper large-v3-turbo as recorded vs after isolation. Written right: 102/102, 98/98, 67->76 (17 fixed, 8 broken). WER 10.9/10.9, 12.3->14.2, 45.1->33.0. Clean: 107/108 transcripts identical. Apple M2, one run."
+ },
+ {
   "id": "2026-11-19-asr-number-writing",
   "date": "2026-11-19",
   "slug": "asr-number-writing",
@@ -16,7 +36,10 @@
   ],
   "media": "2026-11-19-asr-number-writing/media/written.png",
   "status": "shipped",
-  "posted": {},
+  "posted": {
+   "linkedinScheduled": "2026-11-20T18:00",
+   "linkedin": "https://www.linkedin.com/posts/thisisshivamtiwari_last-night-i-tested-two-speech-to-text-tools-share-7529429663727910912-M5eF/"
+  },
   "notes": "36 synthetic sentences x 3 macOS say voices x clean/5 dB white noise; Rumble transformers 5.23.0 MPS fp16 greedy vs whisper-large-v3-turbo mlx 0.4.3 temp 0; written score 96/93 vs 102/88 of 108; 2 sentences unspoken by say (3-7, 3:1)"
  },
  {
