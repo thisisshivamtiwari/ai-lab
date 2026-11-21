@@ -1,0 +1,11 @@
+[project]
+name = "tool-failure-numbers"
+version = "0.1.0"
+description = "When a tool call fails, does a small tool-calling model invent the number anyway? And does a grounding check catch it?"
+requires-python = ">=3.11"
+dependencies = [
+    "mlx-lm==0.32.2",
+    "mlx==0.32.4",
+    "transformers==5.23.0",
+    "matplotlib==3.10.7",
+]

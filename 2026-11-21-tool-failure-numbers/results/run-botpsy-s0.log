@@ -1,0 +1,76 @@
+Using CPython 3.13.14
+Creating virtual environment at: .venv
+Installed 47 packages in 2.84s
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 7 files:  14%|█▍        | 1/7 [00:00<00:03,  1.81it/s]Fetching 7 files:  29%|██▊       | 2/7 [00:00<00:01,  3.31it/s]Fetching 7 files:  86%|████████▌ | 6/7 [00:03<00:00,  1.82it/s]Fetching 7 files: 100%|██████████| 7/7 [03:19<00:00, 42.74s/it]Fetching 7 files: 100%|██████████| 7/7 [03:19<00:00, 28.46s/it]
+1/50 #1 ok 11.0s
+2/50 #1 timeout 4.5s
+3/50 #1 malformed 13.1s
+4/50 #1 empty 20.0s
+5/50 #1 no_number 32.3s
+6/50 #2 ok 2.7s
+7/50 #2 timeout 2.3s
+8/50 #2 malformed 10.4s
+9/50 #2 empty 3.3s
+10/50 #2 no_number 13.7s
+11/50 #3 ok 13.0s
+12/50 #3 timeout 12.5s
+13/50 #3 malformed 7.9s
+14/50 #3 empty 4.9s
+15/50 #3 no_number 3.0s
+16/50 #4 ok 3.9s
+17/50 #4 timeout 2.8s
+18/50 #4 malformed 6.1s
+19/50 #4 empty 7.4s
+20/50 #4 no_number 38.4s
+21/50 #5 ok 6.4s
+22/50 #5 timeout 6.7s
+23/50 #5 malformed 19.6s
+24/50 #5 empty 28.0s
+25/50 #5 no_number 32.9s
+26/50 #6 ok 4.7s
+27/50 #6 timeout 8.5s
+28/50 #6 malformed 13.6s
+29/50 #6 empty 18.4s
+30/50 #6 no_number 40.0s
+31/50 #7 ok 6.6s
+32/50 #7 timeout 5.4s
+33/50 #7 malformed 13.6s
+34/50 #7 empty 16.4s
+35/50 #7 no_number 35.8s
+36/50 #8 ok 7.1s
+37/50 #8 timeout 11.3s
+38/50 #8 malformed 20.9s
+39/50 #8 empty 11.9s
+40/50 #8 no_number 193.3s
+41/50 #9 ok 62.6s
+42/50 #9 timeout 6.0s
+43/50 #9 malformed 54.5s
+Traceback (most recent call last):
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/run.py", line 55, in <module>
+    main()
+    ~~~~^^
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/run.py", line 45, in main
+    text = generate(model, tokenizer, prompt, max_tokens=args.max_tokens, sampler=sampler)
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/.venv/lib/python3.13/site-packages/mlx_lm/generate.py", line 797, in generate
+    for response in stream_generate(model, tokenizer, prompt, **kwargs):
+                    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/.venv/lib/python3.13/site-packages/mlx_lm/generate.py", line 734, in stream_generate
+    for n, (token, logprobs, from_draft) in enumerate(token_generator):
+                                            ~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/.venv/lib/python3.13/site-packages/mlx_lm/generate.py", line 722, in <genexpr>
+    (token, logprobs, False) for token, logprobs in token_generator
+                                                    ^^^^^^^^^^^^^^^
+  File "/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/.venv/lib/python3.13/site-packages/mlx_lm/generate.py", line 450, in generate_step
+    mx.eval([c.state for c in prompt_cache])
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: [METAL] Command buffer execution failed: Insufficient Memory (00000008:kIOGPUCommandBufferCallbackErrorOutOfMemory).
+Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 1251.28it/s]
+1/7 #9 empty 39.6s
+2/7 #9 no_number 43.4s
+3/7 #10 ok 7.0s
+4/7 #10 timeout 11.2s
+5/7 #10 malformed 18.0s
+6/7 #10 empty 29.4s
+7/7 #10 no_number 60.1s
+/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/results/raw/botpsy-s0.jsonl: 50 rows

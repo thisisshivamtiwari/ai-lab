@@ -1,0 +1,53 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 10 files:  10%|█         | 1/10 [00:00<00:04,  1.80it/s]Fetching 10 files:  20%|██        | 2/10 [00:00<00:02,  3.34it/s]Fetching 10 files:  70%|███████   | 7/10 [00:00<00:00, 12.55it/s]Fetching 10 files:  90%|█████████ | 9/10 [00:02<00:00,  3.72it/s]Fetching 10 files:  90%|█████████ | 9/10 [00:20<00:00,  3.72it/s]Fetching 10 files: 100%|██████████| 10/10 [03:51<00:00, 42.46s/it]Fetching 10 files: 100%|██████████| 10/10 [03:52<00:00, 23.20s/it]
+1/50 #1 ok 227.4s
+2/50 #1 timeout 7.9s
+3/50 #1 malformed 5.6s
+4/50 #1 empty 88.8s
+5/50 #1 no_number 15.6s
+6/50 #2 ok 5.6s
+7/50 #2 timeout 17.5s
+8/50 #2 malformed 7.9s
+9/50 #2 empty 4.4s
+10/50 #2 no_number 6.4s
+11/50 #3 ok 6.1s
+12/50 #3 timeout 4.8s
+13/50 #3 malformed 5.2s
+14/50 #3 empty 5.0s
+15/50 #3 no_number 4.5s
+16/50 #4 ok 11.8s
+17/50 #4 timeout 5.1s
+18/50 #4 malformed 5.6s
+19/50 #4 empty 5.9s
+20/50 #4 no_number 7.4s
+21/50 #5 ok 6.6s
+22/50 #5 timeout 4.3s
+23/50 #5 malformed 3.4s
+24/50 #5 empty 6.1s
+25/50 #5 no_number 7.2s
+26/50 #6 ok 7.3s
+27/50 #6 timeout 28.0s
+28/50 #6 malformed 4.3s
+29/50 #6 empty 2.7s
+30/50 #6 no_number 2.5s
+31/50 #7 ok 3.0s
+32/50 #7 timeout 3.2s
+33/50 #7 malformed 2.9s
+34/50 #7 empty 4.5s
+35/50 #7 no_number 3.4s
+36/50 #8 ok 3.5s
+37/50 #8 timeout 9.6s
+38/50 #8 malformed 85.0s
+39/50 #8 empty 7.0s
+40/50 #8 no_number 174.6s
+41/50 #9 ok 185.4s
+42/50 #9 timeout 3.1s
+43/50 #9 malformed 5.0s
+44/50 #9 empty 7.7s
+45/50 #9 no_number 44.1s
+46/50 #10 ok 3.7s
+47/50 #10 timeout 1.7s
+48/50 #10 malformed 44.0s
+49/50 #10 empty 4.2s
+50/50 #10 no_number 6.1s
+/Applications/Softwares/portfolio/ai-lab/2026-11-21-tool-failure-numbers/results/raw/base-s0.jsonl: 50 rows

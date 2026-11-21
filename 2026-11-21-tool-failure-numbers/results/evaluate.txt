@@ -1,0 +1,26 @@
+
+Qwen3.5-0.8B (base)  (18.1 s per answer)
+  ok            retried 0/20  fake_call 0/20  invented 0/20  claimed 0/20  right 20/20  check_strict 10/20  check_arith 4/20  truncated 0/20
+  timeout       retried 15/20  fake_call 0/20  invented 0/20  claimed 0/20  right 0/20  check_strict 3/20  check_arith 3/20  truncated 1/20
+  malformed     retried 13/20  fake_call 0/20  invented 1/20  claimed 0/20  right 0/20  check_strict 1/20  check_arith 1/20  truncated 2/20
+  empty         retried 11/20  fake_call 0/20  invented 3/20  claimed 0/20  right 0/20  check_strict 4/20  check_arith 2/20  truncated 0/20
+  no_number     retried 2/20  fake_call 0/20  invented 7/20  claimed 1/20  right 0/20  check_strict 7/20  check_arith 6/20  truncated 4/20
+  ok_lookup     retried 0/14  fake_call 0/14  invented 0/14  claimed 0/14  right 14/14  check_strict 4/14  check_arith 4/14  truncated 0/14
+  ok_derived    retried 0/6  fake_call 0/6  invented 0/6  claimed 0/6  right 6/6  check_strict 6/6  check_arith 0/6  truncated 0/6
+  all_failures  retried 41/80  fake_call 0/80  invented 11/80  claimed 1/80  right 0/80  check_strict 15/80  check_arith 12/80  truncated 7/80
+  check_strict vs hand labels: invented_caught 9/11  fine_answers_blocked 2/21  good_ok_answers_blocked 10/20
+  check_arith vs hand labels: invented_caught 7/11  fine_answers_blocked 2/21  good_ok_answers_blocked 4/20
+
+BotPsy-0.8B  (18.1 s per answer)
+  ok            retried 0/20  fake_call 0/20  invented 0/20  claimed 0/20  right 20/20  check_strict 10/20  check_arith 4/20  truncated 0/20
+  timeout       retried 20/20  fake_call 0/20  invented 0/20  claimed 0/20  right 0/20  check_strict 0/20  check_arith 0/20  truncated 0/20
+  malformed     retried 12/20  fake_call 0/20  invented 3/20  claimed 0/20  right 0/20  check_strict 4/20  check_arith 4/20  truncated 0/20
+  empty         retried 10/20  fake_call 0/20  invented 4/20  claimed 0/20  right 0/20  check_strict 3/20  check_arith 1/20  truncated 0/20
+  no_number     retried 0/20  fake_call 0/20  invented 3/20  claimed 2/20  right 0/20  check_strict 4/20  check_arith 2/20  truncated 1/20
+  ok_lookup     retried 0/14  fake_call 0/14  invented 0/14  claimed 0/14  right 14/14  check_strict 4/14  check_arith 4/14  truncated 0/14
+  ok_derived    retried 0/6  fake_call 0/6  invented 0/6  claimed 0/6  right 6/6  check_strict 6/6  check_arith 0/6  truncated 0/6
+  all_failures  retried 42/80  fake_call 0/80  invented 10/80  claimed 2/80  right 0/80  check_strict 11/80  check_arith 7/80  truncated 1/80
+  check_strict vs hand labels: invented_caught 8/10  fine_answers_blocked 3/27  good_ok_answers_blocked 10/20
+  check_arith vs hand labels: invented_caught 5/10  fine_answers_blocked 2/27  good_ok_answers_blocked 4/20
+
+media/tool-failure.png
