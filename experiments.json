@@ -16,7 +16,10 @@
   ],
   "media": "2026-11-21-tool-failure-numbers/media/tool-failure.png",
   "status": "shipped",
-  "posted": {},
+  "posted": {
+   "linkedinScheduled": "2026-11-22T18:00",
+   "linkedin": "https://www.linkedin.com/posts/thisisshivamtiwari_a-missing-answer-can-turn-into-a-very-confident-share-7530152879622541312-a-bo/"
+  },
   "notes": "10 synthetic tasks x 5 tool replies (ok/timeout/cut-off JSON/{}/sub-agent no figure) x 2 seeds x 2 models = 200. Made-up figures: timeout 0/40, quiet failures 21/120 (BotPsy 10/60, base 11/60). Strict number check caught 17/21, blocked 20/40 correct ok answers; with one arithmetic step 12/21 and 8/40. 0/200 fake tool calls as text. Hand labels 69."
  },
  {
