@@ -1,5 +1,28 @@
 [
  {
+  "id": "2026-11-23-local-decision-model",
+  "date": "2026-11-23",
+  "slug": "local-decision-model",
+  "launch": {
+   "name": "Illuin IVE-4B and Ivonnet-0.8B open decision models (Apache 2.0; 23 Nov)",
+   "official": "https://huggingface.co/blog/QuentinJG/ive-release",
+   "second": "https://123456.ai/en/"
+  },
+  "skills": [
+   "LLM evaluation",
+   "calibration",
+   "decision models",
+   "human-in-the-loop thresholds",
+   "prompt sensitivity testing",
+   "local inference (PyTorch, Hugging Face)"
+  ],
+  "media": [
+   "media/calibration-and-wording.png"
+  ],
+  "status": "shipped",
+  "posted": {}
+ },
+ {
   "id": "2026-11-21-tool-failure-numbers",
   "date": "2026-11-21",
   "slug": "tool-failure-numbers",

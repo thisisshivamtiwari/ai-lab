@@ -1,0 +1,15 @@
+[project]
+name = "local-decision-model"
+version = "0.1.0"
+description = "Illuin Ivonnet-0.8B (open decision model) on a laptop CPU/MPS, scored on the 13 Nov refund-question set."
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "torch==2.11.0",
+    "torchvision==0.26.0",
+    "transformers==5.22.1",
+    "safetensors>=0.4",
+    "pillow>=10",
+    "huggingface_hub>=0.34",
+    "numpy==2.3.4",
+    "matplotlib==3.10.7",
+]
