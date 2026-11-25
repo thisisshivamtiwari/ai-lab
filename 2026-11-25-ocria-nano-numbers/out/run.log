@@ -1,0 +1,136 @@
+ratecard-0-clean.png         ocria-nano     20/ 21 ghosts= 0  0.56s cpu
+ratecard-0-clean.png         apple-vision   21/ 21 ghosts= 0  0.24s accurate
+ratecard-0-scan.png          ocria-nano     21/ 21 ghosts= 0  0.38s cpu
+ratecard-0-scan.png          apple-vision   21/ 21 ghosts= 0  0.20s accurate
+ratecard-0-phone.png         ocria-nano     21/ 21 ghosts= 0  0.40s cpu
+ratecard-0-phone.png         apple-vision   21/ 21 ghosts= 0  0.19s accurate
+ratecard-0-lowres.png        ocria-nano      6/ 21 ghosts= 0  0.26s cpu
+ratecard-0-lowres.png        apple-vision    6/ 21 ghosts= 0  0.15s accurate
+folio-0-clean.png            ocria-nano     26/ 26 ghosts= 0  0.41s cpu
+folio-0-clean.png            apple-vision   26/ 26 ghosts= 0  0.19s accurate
+folio-0-scan.png             ocria-nano     26/ 26 ghosts= 0  0.36s cpu
+folio-0-scan.png             apple-vision   26/ 26 ghosts= 0  0.19s accurate
+folio-0-phone.png            ocria-nano     26/ 26 ghosts= 0  0.28s cpu
+folio-0-phone.png            apple-vision   26/ 26 ghosts= 0  0.19s accurate
+folio-0-lowres.png           ocria-nano     14/ 26 ghosts= 0  0.24s cpu
+folio-0-lowres.png           apple-vision   14/ 26 ghosts= 0  0.16s accurate
+invoice-0-clean.png          ocria-nano     30/ 31 ghosts= 0  0.36s cpu
+invoice-0-clean.png          apple-vision   31/ 31 ghosts= 0  0.19s accurate
+invoice-0-scan.png           ocria-nano     31/ 31 ghosts= 0  0.34s cpu
+invoice-0-scan.png           apple-vision   30/ 31 ghosts= 0  0.19s accurate
+invoice-0-phone.png          ocria-nano     30/ 31 ghosts= 0  0.27s cpu
+invoice-0-phone.png          apple-vision   30/ 31 ghosts= 0  0.18s accurate
+invoice-0-lowres.png         ocria-nano     12/ 31 ghosts= 0  0.25s cpu
+invoice-0-lowres.png         apple-vision   12/ 31 ghosts= 0  0.15s accurate
+ratecard-1-clean.png         ocria-nano     21/ 21 ghosts= 0  0.35s cpu
+ratecard-1-clean.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-1-scan.png          ocria-nano     21/ 21 ghosts= 0  0.34s cpu
+ratecard-1-scan.png          apple-vision   21/ 21 ghosts= 0  0.19s accurate
+ratecard-1-phone.png         ocria-nano     21/ 21 ghosts= 0  0.37s cpu
+ratecard-1-phone.png         apple-vision   21/ 21 ghosts= 0  0.19s accurate
+ratecard-1-lowres.png        ocria-nano      6/ 21 ghosts= 0  0.25s cpu
+ratecard-1-lowres.png        apple-vision    6/ 21 ghosts= 0  0.15s accurate
+folio-1-clean.png            ocria-nano     22/ 22 ghosts= 0  0.35s cpu
+folio-1-clean.png            apple-vision   22/ 22 ghosts= 0  0.19s accurate
+folio-1-scan.png             ocria-nano     22/ 22 ghosts= 0  0.34s cpu
+folio-1-scan.png             apple-vision   22/ 22 ghosts= 0  0.19s accurate
+folio-1-phone.png            ocria-nano     22/ 22 ghosts= 0  0.26s cpu
+folio-1-phone.png            apple-vision   22/ 22 ghosts= 0  0.18s accurate
+folio-1-lowres.png           ocria-nano     12/ 22 ghosts= 0  0.33s cpu
+folio-1-lowres.png           apple-vision   12/ 22 ghosts= 0  0.15s accurate
+invoice-1-clean.png          ocria-nano     25/ 25 ghosts= 0  0.36s cpu
+invoice-1-clean.png          apple-vision   25/ 25 ghosts= 0  0.19s accurate
+invoice-1-scan.png           ocria-nano     25/ 25 ghosts= 0  0.34s cpu
+invoice-1-scan.png           apple-vision   25/ 25 ghosts= 0  0.20s accurate
+invoice-1-phone.png          ocria-nano     25/ 25 ghosts= 0  0.26s cpu
+invoice-1-phone.png          apple-vision   24/ 25 ghosts= 0  0.18s accurate
+invoice-1-lowres.png         ocria-nano     11/ 25 ghosts= 0  0.27s cpu
+invoice-1-lowres.png         apple-vision   11/ 25 ghosts= 0  0.16s accurate
+ratecard-2-clean.png         ocria-nano     21/ 21 ghosts= 0  0.35s cpu
+ratecard-2-clean.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-2-scan.png          ocria-nano     20/ 21 ghosts= 0  0.34s cpu
+ratecard-2-scan.png          apple-vision   19/ 21 ghosts= 0  0.19s accurate
+ratecard-2-phone.png         ocria-nano     21/ 21 ghosts= 0  0.26s cpu
+ratecard-2-phone.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-2-lowres.png        ocria-nano      6/ 21 ghosts= 0  0.25s cpu
+ratecard-2-lowres.png        apple-vision    6/ 21 ghosts= 0  0.15s accurate
+folio-2-clean.png            ocria-nano     24/ 24 ghosts= 0  0.34s cpu
+folio-2-clean.png            apple-vision   24/ 24 ghosts= 0  0.19s accurate
+folio-2-scan.png             ocria-nano     24/ 24 ghosts= 0  0.36s cpu
+folio-2-scan.png             apple-vision   23/ 24 ghosts= 0  0.19s accurate
+folio-2-phone.png            ocria-nano     24/ 24 ghosts= 0  0.40s cpu
+folio-2-phone.png            apple-vision   24/ 24 ghosts= 0  0.19s accurate
+folio-2-lowres.png           ocria-nano     13/ 24 ghosts= 0  0.24s cpu
+folio-2-lowres.png           apple-vision   13/ 24 ghosts= 0  0.16s accurate
+invoice-2-clean.png          ocria-nano     30/ 31 ghosts= 0  0.38s cpu
+invoice-2-clean.png          apple-vision   31/ 31 ghosts= 0  0.22s accurate
+invoice-2-scan.png           ocria-nano     31/ 31 ghosts= 0  0.42s cpu
+invoice-2-scan.png           apple-vision   28/ 31 ghosts= 0  0.22s accurate
+invoice-2-phone.png          ocria-nano     30/ 31 ghosts= 0  0.40s cpu
+invoice-2-phone.png          apple-vision   31/ 31 ghosts= 0  0.19s accurate
+invoice-2-lowres.png         ocria-nano     11/ 31 ghosts= 0  0.28s cpu
+invoice-2-lowres.png         apple-vision    9/ 31 ghosts= 0  0.15s accurate
+ratecard-3-clean.png         ocria-nano     21/ 21 ghosts= 0  0.36s cpu
+ratecard-3-clean.png         apple-vision   21/ 21 ghosts= 0  0.19s accurate
+ratecard-3-scan.png          ocria-nano     21/ 21 ghosts= 0  0.34s cpu
+ratecard-3-scan.png          apple-vision   20/ 21 ghosts= 0  0.19s accurate
+ratecard-3-phone.png         ocria-nano     21/ 21 ghosts= 0  0.32s cpu
+ratecard-3-phone.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-3-lowres.png        ocria-nano      6/ 21 ghosts= 0  0.25s cpu
+ratecard-3-lowres.png        apple-vision    6/ 21 ghosts= 0  0.15s accurate
+folio-3-clean.png            ocria-nano     26/ 26 ghosts= 0  0.37s cpu
+folio-3-clean.png            apple-vision   26/ 26 ghosts= 0  0.19s accurate
+folio-3-scan.png             ocria-nano     26/ 26 ghosts= 0  0.36s cpu
+folio-3-scan.png             apple-vision   26/ 26 ghosts= 0  0.20s accurate
+folio-3-phone.png            ocria-nano     25/ 26 ghosts= 0  0.30s cpu
+folio-3-phone.png            apple-vision   26/ 26 ghosts= 0  0.20s accurate
+folio-3-lowres.png           ocria-nano     14/ 26 ghosts= 0  0.28s cpu
+folio-3-lowres.png           apple-vision   14/ 26 ghosts= 0  0.15s accurate
+invoice-3-clean.png          ocria-nano     28/ 28 ghosts= 0  0.34s cpu
+invoice-3-clean.png          apple-vision   28/ 28 ghosts= 0  0.19s accurate
+invoice-3-scan.png           ocria-nano     28/ 28 ghosts= 0  0.36s cpu
+invoice-3-scan.png           apple-vision   28/ 28 ghosts= 0  0.19s accurate
+invoice-3-phone.png          ocria-nano     28/ 28 ghosts= 0  0.27s cpu
+invoice-3-phone.png          apple-vision   28/ 28 ghosts= 0  0.18s accurate
+invoice-3-lowres.png         ocria-nano     11/ 28 ghosts= 0  0.24s cpu
+invoice-3-lowres.png         apple-vision   11/ 28 ghosts= 0  0.15s accurate
+ratecard-4-clean.png         ocria-nano     21/ 21 ghosts= 0  0.36s cpu
+ratecard-4-clean.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-4-scan.png          ocria-nano     21/ 21 ghosts= 0  0.34s cpu
+ratecard-4-scan.png          apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-4-phone.png         ocria-nano     21/ 21 ghosts= 0  0.26s cpu
+ratecard-4-phone.png         apple-vision   21/ 21 ghosts= 0  0.18s accurate
+ratecard-4-lowres.png        ocria-nano      6/ 21 ghosts= 0  0.25s cpu
+ratecard-4-lowres.png        apple-vision    6/ 21 ghosts= 0  0.15s accurate
+folio-4-clean.png            ocria-nano     26/ 26 ghosts= 0  0.36s cpu
+folio-4-clean.png            apple-vision   26/ 26 ghosts= 0  0.19s accurate
+folio-4-scan.png             ocria-nano     26/ 26 ghosts= 0  0.35s cpu
+folio-4-scan.png             apple-vision   25/ 26 ghosts= 0  0.20s accurate
+folio-4-phone.png            ocria-nano     25/ 26 ghosts= 0  0.27s cpu
+folio-4-phone.png            apple-vision   26/ 26 ghosts= 0  0.18s accurate
+folio-4-lowres.png           ocria-nano     13/ 26 ghosts= 1  0.25s cpu
+folio-4-lowres.png           apple-vision   14/ 26 ghosts= 1  0.15s accurate
+invoice-4-clean.png          ocria-nano     30/ 31 ghosts= 0  0.34s cpu
+invoice-4-clean.png          apple-vision   31/ 31 ghosts= 0  0.19s accurate
+invoice-4-scan.png           ocria-nano     31/ 31 ghosts= 0  0.35s cpu
+invoice-4-scan.png           apple-vision   29/ 31 ghosts= 0  0.20s accurate
+invoice-4-phone.png          ocria-nano     31/ 31 ghosts= 0  0.27s cpu
+invoice-4-phone.png          apple-vision   30/ 31 ghosts= 0  0.18s accurate
+invoice-4-lowres.png         ocria-nano     10/ 31 ghosts= 0  0.25s cpu
+invoice-4-lowres.png         apple-vision    9/ 31 ghosts= 0  0.16s accurate
+ocria-nano/clean {'pages': 15, 'tokens': 375, 'found': 371, 'exact_pct': 98.9, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.357}
+ocria-nano/scan {'pages': 15, 'tokens': 375, 'found': 374, 'exact_pct': 99.7, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.346}
+ocria-nano/phone {'pages': 15, 'tokens': 375, 'found': 371, 'exact_pct': 98.9, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.273}
+ocria-nano/lowres {'pages': 15, 'tokens': 375, 'found': 151, 'exact_pct': 40.3, 'ghost_tokens': 1, 'money_ghosts': 0, 'median_secs': 0.247}
+ocria-nano/all {'pages': 60, 'tokens': 1500, 'found': 1267, 'exact_pct': 84.5, 'ghost_tokens': 1, 'money_ghosts': 0, 'median_secs': 0.338}
+apple-vision/clean {'pages': 15, 'tokens': 375, 'found': 375, 'exact_pct': 100.0, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.188}
+apple-vision/scan {'pages': 15, 'tokens': 375, 'found': 364, 'exact_pct': 97.1, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.192}
+apple-vision/phone {'pages': 15, 'tokens': 375, 'found': 372, 'exact_pct': 99.2, 'ghost_tokens': 0, 'money_ghosts': 0, 'median_secs': 0.183}
+apple-vision/lowres {'pages': 15, 'tokens': 375, 'found': 149, 'exact_pct': 39.7, 'ghost_tokens': 1, 'money_ghosts': 1, 'median_secs': 0.153}
+apple-vision/all {'pages': 60, 'tokens': 1500, 'found': 1260, 'exact_pct': 84.0, 'ghost_tokens': 1, 'money_ghosts': 1, 'median_secs': 0.186}
+ocria-nano/doc:ratecard {'pages': 20, 'tokens': 420, 'found': 343, 'exact_pct': 81.7, 'ghost_tokens': 0}
+ocria-nano/doc:folio {'pages': 20, 'tokens': 496, 'found': 436, 'exact_pct': 87.9, 'ghost_tokens': 1}
+ocria-nano/doc:invoice {'pages': 20, 'tokens': 584, 'found': 488, 'exact_pct': 83.6, 'ghost_tokens': 0}
+apple-vision/doc:ratecard {'pages': 20, 'tokens': 420, 'found': 342, 'exact_pct': 81.4, 'ghost_tokens': 0}
+apple-vision/doc:folio {'pages': 20, 'tokens': 496, 'found': 437, 'exact_pct': 88.1, 'ghost_tokens': 1}
+apple-vision/doc:invoice {'pages': 20, 'tokens': 584, 'found': 481, 'exact_pct': 82.4, 'ghost_tokens': 0}

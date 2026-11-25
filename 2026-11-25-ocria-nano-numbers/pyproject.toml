@@ -1,0 +1,6 @@
+[project]
+name = "ocria-nano-numbers"
+version = "0.1.0"
+description = "Does LlamaIndex's 8M-parameter OCRia-nano-1 read the money on hotel paperwork? Our small test vs Apple Vision."
+requires-python = ">=3.12"
+dependencies = ["liteparse==2.21.2", "pillow==13.0.0", "matplotlib==3.11.2"]

@@ -1,5 +1,28 @@
 [
  {
+  "id": "2026-11-25-ocria-nano-numbers",
+  "date": "2026-11-25",
+  "slug": "ocria-nano-numbers",
+  "launch": {
+   "name": "LlamaIndex OCRia-nano-1: 8M-parameter CPU document parser (23 Nov)",
+   "official": "https://www.llamaindex.ai/blog/introducing-ocria-nano-1",
+   "second": "https://huggingface.co/llamaindex/OCRia-nano-1"
+  },
+  "skills": [
+   "OCR / document AI",
+   "vision model evaluation",
+   "synthetic test data",
+   "on-device inference (ONNX, Apple Vision)",
+   "failure-mode analysis"
+  ],
+  "media": [
+   "media/number-accuracy.png",
+   "media/sample-fax-invoice.png"
+  ],
+  "status": "shipped",
+  "posted": {}
+ },
+ {
   "id": "2026-11-23-local-decision-model",
   "date": "2026-11-23",
   "slug": "local-decision-model",

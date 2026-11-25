@@ -1,0 +1,134 @@
+{
+ "ocria-nano/clean": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 371,
+  "exact_pct": 98.9,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.357
+ },
+ "ocria-nano/scan": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 374,
+  "exact_pct": 99.7,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.346
+ },
+ "ocria-nano/phone": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 371,
+  "exact_pct": 98.9,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.273
+ },
+ "ocria-nano/lowres": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 151,
+  "exact_pct": 40.3,
+  "ghost_tokens": 1,
+  "money_ghosts": 0,
+  "median_secs": 0.247
+ },
+ "ocria-nano/all": {
+  "pages": 60,
+  "tokens": 1500,
+  "found": 1267,
+  "exact_pct": 84.5,
+  "ghost_tokens": 1,
+  "money_ghosts": 0,
+  "median_secs": 0.338
+ },
+ "apple-vision/clean": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 375,
+  "exact_pct": 100.0,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.188
+ },
+ "apple-vision/scan": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 364,
+  "exact_pct": 97.1,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.192
+ },
+ "apple-vision/phone": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 372,
+  "exact_pct": 99.2,
+  "ghost_tokens": 0,
+  "money_ghosts": 0,
+  "median_secs": 0.183
+ },
+ "apple-vision/lowres": {
+  "pages": 15,
+  "tokens": 375,
+  "found": 149,
+  "exact_pct": 39.7,
+  "ghost_tokens": 1,
+  "money_ghosts": 1,
+  "median_secs": 0.153
+ },
+ "apple-vision/all": {
+  "pages": 60,
+  "tokens": 1500,
+  "found": 1260,
+  "exact_pct": 84.0,
+  "ghost_tokens": 1,
+  "money_ghosts": 1,
+  "median_secs": 0.186
+ },
+ "ocria-nano/doc:ratecard": {
+  "pages": 20,
+  "tokens": 420,
+  "found": 343,
+  "exact_pct": 81.7,
+  "ghost_tokens": 0
+ },
+ "ocria-nano/doc:folio": {
+  "pages": 20,
+  "tokens": 496,
+  "found": 436,
+  "exact_pct": 87.9,
+  "ghost_tokens": 1
+ },
+ "ocria-nano/doc:invoice": {
+  "pages": 20,
+  "tokens": 584,
+  "found": 488,
+  "exact_pct": 83.6,
+  "ghost_tokens": 0
+ },
+ "apple-vision/doc:ratecard": {
+  "pages": 20,
+  "tokens": 420,
+  "found": 342,
+  "exact_pct": 81.4,
+  "ghost_tokens": 0
+ },
+ "apple-vision/doc:folio": {
+  "pages": 20,
+  "tokens": 496,
+  "found": 437,
+  "exact_pct": 88.1,
+  "ghost_tokens": 1
+ },
+ "apple-vision/doc:invoice": {
+  "pages": 20,
+  "tokens": 584,
+  "found": 481,
+  "exact_pct": 82.4,
+  "ghost_tokens": 0
+ }
+}

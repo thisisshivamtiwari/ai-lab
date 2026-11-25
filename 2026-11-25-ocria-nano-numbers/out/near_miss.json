@@ -1,0 +1,185 @@
+{
+ "ocria-nano/clean": {
+  "pages": 15,
+  "amount_strings_out": 208,
+  "near_miss_amounts": 1,
+  "examples": [
+   {
+    "file": "ratecard-0-clean.png",
+    "wrong": [
+     "8.33"
+    ]
+   }
+  ]
+ },
+ "apple-vision/clean": {
+  "pages": 15,
+  "amount_strings_out": 211,
+  "near_miss_amounts": 0,
+  "examples": []
+ },
+ "ocria-nano/scan": {
+  "pages": 15,
+  "amount_strings_out": 210,
+  "near_miss_amounts": 0,
+  "examples": []
+ },
+ "apple-vision/scan": {
+  "pages": 15,
+  "amount_strings_out": 211,
+  "near_miss_amounts": 5,
+  "examples": [
+   {
+    "file": "ratecard-2-scan.png",
+    "wrong": [
+     "10318",
+     "35313"
+    ]
+   },
+   {
+    "file": "folio-2-scan.png",
+    "wrong": [
+     "3551"
+    ]
+   },
+   {
+    "file": "invoice-2-scan.png",
+    "wrong": [
+     "424"
+    ]
+   },
+   {
+    "file": "invoice-4-scan.png",
+    "wrong": [
+     "1651929"
+    ]
+   }
+  ]
+ },
+ "ocria-nano/phone": {
+  "pages": 15,
+  "amount_strings_out": 209,
+  "near_miss_amounts": 1,
+  "examples": [
+   {
+    "file": "folio-4-phone.png",
+    "wrong": [
+     "04.58"
+    ]
+   }
+  ]
+ },
+ "apple-vision/phone": {
+  "pages": 15,
+  "amount_strings_out": 211,
+  "near_miss_amounts": 0,
+  "examples": []
+ },
+ "ocria-nano/lowres": {
+  "pages": 15,
+  "amount_strings_out": 101,
+  "near_miss_amounts": 62,
+  "examples": [
+   {
+    "file": "ratecard-0-lowres.png",
+    "wrong": [
+     "399.79",
+     "123.16",
+     "261.93"
+    ]
+   },
+   {
+    "file": "folio-0-lowres.png",
+    "wrong": [
+     "97.49",
+     "22.90"
+    ]
+   },
+   {
+    "file": "invoice-0-lowres.png",
+    "wrong": [
+     "168.94",
+     "183.04",
+     "3.84"
+    ]
+   },
+   {
+    "file": "ratecard-1-lowres.png",
+    "wrong": [
+     "6.30",
+     "393.32",
+     "429.23"
+    ]
+   },
+   {
+    "file": "invoice-1-lowres.png",
+    "wrong": [
+     "1143.88",
+     "93.49",
+     "348.22"
+    ]
+   },
+   {
+    "file": "ratecard-2-lowres.png",
+    "wrong": [
+     "123.18",
+     "4762.39",
+     "374.38"
+    ]
+   }
+  ]
+ },
+ "apple-vision/lowres": {
+  "pages": 15,
+  "amount_strings_out": 113,
+  "near_miss_amounts": 70,
+  "examples": [
+   {
+    "file": "ratecard-0-lowres.png",
+    "wrong": [
+     "224.12",
+     "128.32",
+     "261.90"
+    ]
+   },
+   {
+    "file": "folio-0-lowres.png",
+    "wrong": [
+     "34.22",
+     "239.28"
+    ]
+   },
+   {
+    "file": "invoice-0-lowres.png",
+    "wrong": [
+     "182.24",
+     "24.72",
+     "12.21"
+    ]
+   },
+   {
+    "file": "ratecard-1-lowres.png",
+    "wrong": [
+     "126.22",
+     "293.70",
+     "129.23"
+    ]
+   },
+   {
+    "file": "folio-1-lowres.png",
+    "wrong": [
+     "219.32",
+     "97.61",
+     "1022.96"
+    ]
+   },
+   {
+    "file": "invoice-1-lowres.png",
+    "wrong": [
+     "1147.20",
+     "512.71"
+    ]
+   }
+  ]
+ }
+}
